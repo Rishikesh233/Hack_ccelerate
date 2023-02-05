@@ -1,0 +1,987 @@
+,Manufacturer,Model,Car_Name,Variant,Body_Type,Fuel_Type,Gear_Type,Drivetrain,Displacement,Cylinders,Mileage,Power,Torque,Fuel_tank,Height,Length,Width,Doors,Seats,Wheelbase,Airbags,On_road_price
+0,Tata,Nano Genx,Tata Nano Genx,Xt,Hatchback,Petrol,Manual,RWD (Rear Wheel Drive),624,2,23.6,37.48,51,24.0,1652.0,3164.0,1750.0,5,4,2230.0,0,296764
+1,Tata,Nano Genx,Tata Nano Genx,Xe,Hatchback,Petrol,Manual,RWD (Rear Wheel Drive),624,2,23.6,37.48,51,24.0,1652.0,3164.0,1750.0,5,4,2230.0,0,239757
+3,Tata,Nano Genx,Tata Nano Genx,Xta,Hatchback,Petrol,Automatic,RWD (Rear Wheel Drive),624,2,21.9,37.48,51,24.0,1652.0,3164.0,1750.0,5,4,2230.0,0,339454
+4,Tata,Nano Genx,Tata Nano Genx,Xm,Hatchback,Petrol,Manual,RWD (Rear Wheel Drive),624,2,23.6,37.48,51,24.0,1652.0,3164.0,1750.0,5,4,2230.0,0,276034
+5,Tata,Nano Genx,Tata Nano Genx,Xma,Hatchback,Petrol,Automatic,RWD (Rear Wheel Drive),624,2,21.9,37.48,51,24.0,1652.0,3164.0,1750.0,5,4,2230.0,0,319222
+6,Datsun,Redi-Go,Datsun Redi-Go,D,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),799,3,25.17,53.26,72,28.0,1541.0,3429.0,1560.0,5,5,2348.0,0,283565
+7,Datsun,Redi-Go,Datsun Redi-Go,T,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),799,3,25.17,53.26,72,28.0,1541.0,3429.0,1560.0,5,5,2348.0,0,356757
+8,Datsun,Redi-Go,Datsun Redi-Go,A,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),799,3,25.17,53.26,72,28.0,1541.0,3429.0,1560.0,5,5,2348.0,0,338086
+9,Datsun,Redi-Go,Datsun Redi-Go,S,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),799,3,25.17,53.26,72,28.0,1541.0,3429.0,1560.0,5,5,2348.0,0,367068
+10,Datsun,Redi-Go,Datsun Redi-Go,1.0 S,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),999,3,22.5,67.07,91,28.0,1541.0,3429.0,1560.0,5,5,2348.0,0,395460
+11,Datsun,Redi-Go,Datsun Redi-Go,1.0 S Amt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),999,3,23.0,67.07,91,28.0,1541.0,3429.0,1560.0,5,5,2348.0,0,443183
+12,Renault,Kwid,Renault Kwid,Rxe 0.8,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),799,3,25.17,53.26,72,28.0,1490.0,3731.0,1579.0,5,5,2422.0,1,358236
+13,Renault,Kwid,Renault Kwid,Std 0.8,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),799,3,25.17,53.26,72,28.0,1490.0,3731.0,1579.0,5,5,2442.0,1,287256
+14,Renault,Kwid,Renault Kwid,Rxl 0.8,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),799,3,25.17,53.26,72,28.0,1490.0,3731.0,1579.0,5,5,2422.0,1,388656
+15,Renault,Kwid,Renault Kwid,Rxt 0.8,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),799,3,25.17,53.26,72,28.0,1490.0,3731.0,1580.0,5,5,2422.0,1,419076
+16,Renault,Kwid,Renault Kwid,Rxt 1.0,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),999,3,23.01,67.07,91,28.0,1490.0,3731.0,1579.0,5,5,2422.0,1,439356
+17,Renault,Kwid,Renault Kwid,Climber 1.0 Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),999,3,23.01,67.07,91,28.0,1490.0,3731.0,1579.0,5,5,2422.0,1,460852
+18,Renault,Kwid,Renault Kwid,Rxt Amt 1.0,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),999,3,24.04,67.07,91,28.0,1490.0,3731.0,1579.0,5,5,2422.0,1,469776
+19,Renault,Kwid,Renault Kwid,Climber Amt 1.0,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),999,3,24.04,67.07,91,28.0,1490.0,3731.0,1579.0,5,5,2422.0,1,491272
+20,Renault,Kwid,Renault Kwid,Rxt (O) 1.0,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),999,3,23.01,67.07,91,28.0,1490.0,3731.0,1579.0,5,5,2422.0,2,447163
+21,Renault,Kwid,Renault Kwid,Rxt (O) Amt 1.0,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),999,3,23.01,67.07,91,28.0,1490.0,3731.0,1579.0,5,5,2422.0,2,477583
+22,Renault,Kwid,Renault Kwid,Climber (O) Mt 1.0,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),999,3,23.01,67.07,91,28.0,1490.0,3731.0,1579.0,5,5,2422.0,2,468660
+23,Renault,Kwid,Renault Kwid,Climber (O) Amt 1.0,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),999,3,24.04,67.07,91,28.0,1490.0,3731.0,1579.0,5,5,2422.0,2,499080
+24,Maruti Suzuki,Eeco,Maruti Suzuki Eeco,5 Str,MPV,Petrol,Manual,RWD (Rear Wheel Drive),1196,4,15.0,72.0,101,40.0,1800.0,3675.0,1475.0,5,5,2350.0,1,357065
+25,Maruti Suzuki,Eeco,Maruti Suzuki Eeco,7 Str,MPV,Petrol,Manual,FWD (Front Wheel Drive),1196,4,15.0,72.99,101,40.0,1800.0,3675.0,1475.0,5,7,2350.0,1,385901
+26,Maruti Suzuki,Eeco,Maruti Suzuki Eeco,5 Str With Ac+Htr,MPV,Petrol,Manual,RWD (Rear Wheel Drive),1196,4,15.0,72.0,101,40.0,1800.0,3675.0,1475.0,5,5,2350.0,0,398468
+29,Maruti Suzuki,Alto K10,Maruti Suzuki Alto K10,Lxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,24.07,67.07,90,35.0,1475.0,3545.0,1490.0,5,5,2360.0,1,382874
+30,Maruti Suzuki,Alto K10,Maruti Suzuki Alto K10,Vxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,24.07,67.07,90,35.0,1475.0,3545.0,1490.0,5,5,2360.0,1,399552
+31,Maruti Suzuki,Alto K10,Maruti Suzuki Alto K10,Lx,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,24.07,67.07,90,35.0,1475.0,3545.0,1490.0,5,5,2360.0,1,365894
+32,Maruti Suzuki,Alto K10,Maruti Suzuki Alto K10,Vxi (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,24.07,67.07,90,35.0,1460.0,3620.0,1475.0,5,5,2360.0,1,412939
+34,Maruti Suzuki,Alto K10,Maruti Suzuki Alto K10,Vxi Amt (O),Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),998,3,24.07,67.07,90,35.0,1475.0,3545.0,1490.0,5,5,2360.0,1,444698
+35,Datsun,Go,Datsun Go,D,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,20.1,67.07,104,35.0,1507.0,3788.0,1636.0,5,5,2450.0,2,380239
+36,Datsun,Go,Datsun Go,T,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,20.1,67.07,104,35.0,1507.0,3788.0,1636.0,5,5,2450.0,2,474784
+37,Datsun,Go,Datsun Go,T (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,20.1,67.07,104,35.0,1507.0,3788.0,1636.0,5,5,2450.0,2,509526
+38,Datsun,Go,Datsun Go,A (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,20.1,67.07,104,35.0,1507.0,3788.0,1636.0,5,5,2450.0,2,506989
+39,Datsun,Go,Datsun Go,A,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,20.1,67.07,104,35.0,1507.0,3788.0,1636.0,5,5,2450.0,2,476569
+40,Datsun,Go,Datsun Go,T Vdc,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,20.1,67.07,104,35.0,1507.0,3788.0,1636.0,5,5,2450.0,2,535862
+41,Datsun,Go,Datsun Go,T (O) Vdc,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,20.1,67.07,104,35.0,1507.0,3788.0,1636.0,5,5,2450.0,2,560757
+42,Datsun,Go,Datsun Go,T Cvt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,20.1,76.93,104,35.0,1507.0,3788.0,1636.0,5,5,2450.0,2,602786
+43,Datsun,Go,Datsun Go,T (O) Cvt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,20.1,76.93,104,35.0,1507.0,3788.0,1636.0,5,5,2450.0,2,626667
+44,Maruti Suzuki,Celerio Tour,Maruti Suzuki Celerio Tour,H2,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,2,428358
+46,Hyundai,Santro,Hyundai Santro,Era Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1086,4,20.3,68.06,99,35.0,1560.0,3610.0,1645.0,4,5,2400.0,1,436009
+47,Hyundai,Santro,Hyundai Santro,Magna Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1086,4,20.3,68.06,99,35.0,1560.0,3610.0,1645.0,4,5,2400.0,1,511045
+49,Hyundai,Santro,Hyundai Santro,Magna Amt,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),1086,4,20.3,68.06,10,35.0,1560.0,3610.0,1645.0,4,5,2400.0,1,538423
+50,Hyundai,Santro,Hyundai Santro,Sportz Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1086,4,20.3,68.06,10,35.0,1560.0,3610.0,1645.0,4,5,2400.0,1,520171
+52,Hyundai,Santro,Hyundai Santro,Sportz Amt,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),1086,4,20.3,68.06,10,35.0,1560.0,3610.0,1645.0,4,5,2400.0,1,578983
+53,Hyundai,Santro,Hyundai Santro,Asta Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1086,4,20.3,68.06,99,35.0,1560.0,3610.0,1645.0,4,5,2400.0,2,564280
+54,Tata,Tiago,Tata Tiago,Revotron Xe,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1199,3,23.0,84.82,114,35.0,1535.0,3765.0,1677.0,5,5,2400.0,2,466440
+55,Tata,Tiago,Tata Tiago,Revotron Xt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1199,3,23.0,84.82,114,35.0,1535.0,3746.0,1647.0,5,5,2400.0,2,527280
+56,Tata,Tiago,Tata Tiago,Revotron Xz,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1199,3,23.0,84.82,114,35.0,1535.0,3746.0,1647.0,5,5,2400.0,2,577980
+57,Tata,Tiago,Tata Tiago,Revotron Xz Plus,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1199,3,23.0,84.82,114,35.0,1535.0,3746.0,1647.0,5,5,2400.0,2,607386
+58,Tata,Tiago,Tata Tiago,Revotron Xz Plus Dual Tone,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1199,3,23.0,84.82,114,35.0,1535.0,3746.0,1647.0,5,5,2400.0,2,618540
+59,Tata,Tiago,Tata Tiago,Revotron Xza,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),1199,3,24.0,84.82,114,35.0,1535.0,3746.0,1647.0,5,5,2400.0,2,628680
+60,Tata,Tiago,Tata Tiago,Revotron Xza Plus,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),1199,3,24.0,84.82,114,35.0,1535.0,3746.0,1647.0,5,5,2400.0,2,658086
+61,Tata,Tiago,Tata Tiago,Revotron Xza Plus Dual Tone,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),1199,3,24.0,84.82,114,35.0,1535.0,3746.0,1647.0,5,5,2400.0,2,669240
+62,Maruti Suzuki,Celerio X,Maruti Suzuki Celerio X,Vxi (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,2,487809
+63,Maruti Suzuki,Celerio X,Maruti Suzuki Celerio X,Vxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,1,481850
+64,Maruti Suzuki,Celerio X,Maruti Suzuki Celerio X,Vxi Amt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,1,525452
+65,Maruti Suzuki,Celerio X,Maruti Suzuki Celerio X,Vxi Amt (O),Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,2,531411
+66,Maruti Suzuki,Celerio X,Maruti Suzuki Celerio X,Zxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,1,506730
+67,Maruti Suzuki,Celerio X,Maruti Suzuki Celerio X,Zxi (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,2,547914
+68,Maruti Suzuki,Celerio X,Maruti Suzuki Celerio X,Zxi Amt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,1,550333
+69,Maruti Suzuki,Celerio X,Maruti Suzuki Celerio X,Zxi Amt (O),Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,2,560082
+70,Maruti Suzuki,Ignis,Maruti Suzuki Ignis,Alpha 1.2 Amt,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),1197,4,20.89,81.86,113,32.0,1595.0,3700.0,1690.0,5,5,2435.0,2,723892
+71,Maruti Suzuki,Ignis,Maruti Suzuki Ignis,Alpha 1.2 Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.89,81.86,113,32.0,1595.0,3700.0,1690.0,5,5,2435.0,2,676234
+72,Maruti Suzuki,Ignis,Maruti Suzuki Ignis,Delta 1.2 Amt,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),1197,4,20.89,81.86,113,32.0,1595.0,3700.0,1690.0,5,5,2435.0,2,616350
+73,Maruti Suzuki,Ignis,Maruti Suzuki Ignis,Delta 1.2 Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.89,81.86,113,32.0,1595.0,3700.0,1690.0,5,5,2435.0,2,568692
+74,Maruti Suzuki,Ignis,Maruti Suzuki Ignis,Sigma 1.2 Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.89,81.86,113,32.0,1595.0,3700.0,1690.0,5,5,2435.0,2,490086
+75,Maruti Suzuki,Ignis,Maruti Suzuki Ignis,Zeta 1.2 Amt,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),1197,4,20.89,81.86,113,32.0,1595.0,3700.0,1690.0,5,5,2435.0,2,639144
+76,Maruti Suzuki,Ignis,Maruti Suzuki Ignis,Zeta 1.2 Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.89,81.86,113,32.0,1595.0,3700.0,1690.0,5,5,2435.0,2,591486
+77,Renault,Triber,Renault Triber,Rxe,MUV,Petrol,Manual,FWD (Front Wheel Drive),999,3,20.5,71.02,96,40.0,1643.0,3990.0,1739.0,5,7,2636.0,2,501930
+78,Renault,Triber,Renault Triber,Rxl,MUV,Petrol,Manual,FWD (Front Wheel Drive),999,3,20.5,71.02,96,40.0,1643.0,3990.0,1739.0,5,7,2636.0,2,566826
+79,Renault,Triber,Renault Triber,Rxt,MUV,Petrol,Manual,FWD (Front Wheel Drive),999,3,20.5,71.02,96,40.0,1643.0,3990.0,1739.0,5,7,2636.0,2,617526
+80,Renault,Triber,Renault Triber,Rxz,MUV,Petrol,Manual,FWD (Front Wheel Drive),999,3,20.5,71.02,96,40.0,1643.0,3990.0,1739.0,5,7,2636.0,4,672282
+81,Premier,Rio,Premier Rio,Gx,SUV,Petrol,Manual,FWD (Front Wheel Drive),1173,4,16.0,74.96,103,46.0,1730.0,3970.0,1570.0,5,5,2420.0,0,513084
+82,Premier,Rio,Premier Rio,Ex,SUV,Diesel,Manual,FWD (Front Wheel Drive),1489,4,16.0,63.12,152,46.0,1730.0,3970.0,1570.0,5,5,2420.0,0,576583
+83,Premier,Rio,Premier Rio,Glx,SUV,Petrol,Manual,FWD (Front Wheel Drive),1173,4,16.0,74.96,103,46.0,1730.0,3970.0,1570.0,5,5,2420.0,0,679380
+84,Premier,Rio,Premier Rio,Dx,SUV,Diesel,Manual,FWD (Front Wheel Drive),1489,4,16.0,63.12,152,46.0,1730.0,3970.0,1570.0,5,5,2420.0,0,611442
+85,Premier,Rio,Premier Rio,Lx,SUV,Diesel,Manual,FWD (Front Wheel Drive),1489,4,16.0,63.12,152,46.0,1730.0,3970.0,1570.0,5,5,2420.0,0,749346
+86,Premier,Rio,Premier Rio,Crdi4,SUV,Diesel,Manual,FWD (Front Wheel Drive),1248,4,23.7,71.02,183,46.0,1730.0,3970.0,1570.0,5,5,2420.0,0,749346
+87,Toyota,Etios Liva,Toyota Etios Liva,G,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.16,78.91,104,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,527584
+88,Toyota,Etios Liva,Toyota Etios Liva,V,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.16,78.91,104,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,589134
+89,Toyota,Etios Liva,Toyota Etios Liva,Gd,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,656869
+90,Toyota,Etios Liva,Toyota Etios Liva,Vx,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.16,78.91,104,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,638820
+91,Toyota,Etios Liva,Toyota Etios Liva,Vxd,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,755430
+92,Toyota,Etios Liva,Toyota Etios Liva,Vd,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,713856
+93,Toyota,Etios Liva,Toyota Etios Liva,Dual Tone V,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.16,78.91,104,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,606067
+94,Toyota,Etios Liva,Toyota Etios Liva,Dual Tone Vd,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,730789
+95,Toyota,Etios Liva,Toyota Etios Liva,Dual Tone Vx,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.16,78.91,104,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,650683
+96,Toyota,Etios Liva,Toyota Etios Liva,Dual Tone Vxd,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,767293
+97,Toyota,Etios Liva,Toyota Etios Liva,Gx,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.16,78.91,104,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,566217
+98,Toyota,Etios Liva,Toyota Etios Liva,Gxd,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,695604
+99,Toyota,Etios Liva,Toyota Etios Liva,Vx Dual Tone Limited Edition,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.16,78.91,104,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,671977
+100,Toyota,Etios Liva,Toyota Etios Liva,Vxd Dual Tone Limited Edition,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,3884.0,1695.0,5,5,2460.0,2,788587
+101,Nissan,Micra Active,Nissan Micra Active,Xl,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.97,67.07,104,41.0,1530.0,3801.0,1665.0,5,5,2450.0,2,532371
+102,Nissan,Micra Active,Nissan Micra Active,Xv,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,19.49,67.07,104,41.0,1530.0,3801.0,1665.0,5,5,2450.0,2,608349
+103,Nissan,Micra Active,Nissan Micra Active,Xl (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.97,67.07,104,41.0,1530.0,3801.0,1665.0,5,5,2450.0,2,571016
+104,Tata,Bolt,Tata Bolt,Xt Diesel,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,22.95,73.97,190,44.0,1562.0,3825.0,1695.0,5,5,2470.0,2,799011
+105,Tata,Bolt,Tata Bolt,Xe Diesel,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,22.95,73.97,190,44.0,1562.0,3825.0,1695.0,5,5,2470.0,0,670366
+106,Tata,Bolt,Tata Bolt,Xm Diesel,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,22.95,73.97,190,44.0,1562.0,3825.0,1695.0,5,5,2470.0,0,703511
+107,Tata,Bolt,Tata Bolt,Xms Diesel,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,22.95,73.97,190,44.0,1562.0,3825.0,1695.0,5,5,2470.0,2,729736
+108,Tata,Bolt,Tata Bolt,Xt Petrol,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1193,4,17.57,88.77,140,44.0,1562.0,3825.0,1695.0,5,5,2470.0,2,684409
+109,Tata,Bolt,Tata Bolt,Xe Petrol,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1193,4,17.57,88.77,140,44.0,1562.0,3825.0,1695.0,5,5,2470.0,0,536441
+110,Tata,Bolt,Tata Bolt,Xm Petrol,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1193,4,17.57,88.77,140,44.0,1562.0,3825.0,1695.0,5,5,2470.0,0,598531
+111,Tata,Bolt,Tata Bolt,Xms Petrol,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1193,4,17.57,88.77,140,44.0,1562.0,3825.0,1695.0,5,5,2470.0,2,623118
+113,Hyundai,Xcent Prime,Hyundai Xcent Prime,T,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1197,4,15.7,81.86,114,43.0,1520.0,3995.0,1660.0,4,5,2425.0,0,544375
+116,Hyundai,Xcent Prime,Hyundai Xcent Prime,T+ Crdi,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1197,4,20.14,69.04,114,43.0,1520.0,3995.0,1660.0,4,5,2425.0,2,648570
+117,Hyundai,Xcent Prime,Hyundai Xcent Prime,T Crdi,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1197,4,20.0,70.03,114,43.0,1520.0,3995.0,1660.0,4,5,2425.0,2,628981
+118,Maruti Suzuki,Dzire Tour,Maruti Suzuki Dzire Tour,Ldi,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,28.4,73.97,190,42.0,1555.0,3995.0,1695.0,4,5,2430.0,0,662672
+119,Maruti Suzuki,Dzire Tour,Maruti Suzuki Dzire Tour,Lxi,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1197,4,22.0,81.86,115,42.0,1555.0,3995.0,1695.0,4,5,2430.0,0,561170
+121,Hyundai,Elite I20,Hyundai Elite I20,Era 1.2,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.6,82.85,115,45.0,1505.0,3995.0,1710.0,5,5,2525.0,2,567528
+122,Hyundai,Elite I20,Hyundai Elite I20,Era 1.4 Crdi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1396,4,22.54,88.77,220,45.0,1505.0,3985.0,1734.0,5,5,2570.0,2,707572
+123,Hyundai,Elite I20,Hyundai Elite I20,Magna Plus,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.6,82.85,115,45.0,1505.0,3985.0,1734.0,5,5,2570.0,2,643839
+124,Hyundai,Elite I20,Hyundai Elite I20,Magna Plus Crdi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1396,4,22.54,88.77,220,45.0,1505.0,3985.0,1734.0,5,5,2570.0,2,781594
+125,Hyundai,Elite I20,Hyundai Elite I20,Sportz Plus,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.6,82.85,115,45.0,1505.0,3985.0,1734.0,5,5,2570.0,2,731796
+126,Hyundai,Elite I20,Hyundai Elite I20,Sportz Plus Crdi Dual Tone,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1396,4,22.54,88.77,220,45.0,1505.0,3985.0,1734.0,5,5,2570.0,2,888368
+127,Hyundai,Elite I20,Hyundai Elite I20,Asta (O) 1.2,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.15,82.85,114,45.0,1505.0,3995.0,1734.0,5,5,2570.0,6,820318
+128,Hyundai,Elite I20,Hyundai Elite I20,Asta (O) Crdi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1396,4,22.54,88.77,220,45.0,1505.0,3985.0,1734.0,5,5,2570.0,6,947079
+129,Hyundai,Elite I20,Hyundai Elite I20,Asta (O) Cvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,18.6,81.86,115,45.0,1505.0,3985.0,1734.0,5,5,2570.0,2,933886
+130,Hyundai,Elite I20,Hyundai Elite I20,Sportz Plus Dual Tone,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.6,82.85,115,45.0,1505.0,3985.0,1734.0,5,5,2570.0,2,762216
+131,Hyundai,Elite I20,Hyundai Elite I20,Sportz Plus Cvt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.6,82.85,115,45.0,1505.0,3985.0,1734.0,5,5,2570.0,2,843336
+132,Hyundai,Elite I20,Hyundai Elite I20,Sportz Plus Crdi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1396,4,22.54,88.77,220,45.0,1505.0,3985.0,1734.0,5,5,2570.0,2,857948
+145,Volkswagen,Polo,Volkswagen Polo,Trendline 1.0L (P),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),999,3,18.78,74.96,95,45.0,1469.0,3971.0,1682.0,5,5,2469.0,2,590148
+146,Volkswagen,Polo,Volkswagen Polo,Comfortline 1.0 (P),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),999,3,18.78,74.96,95,45.0,1469.0,3971.0,1682.0,5,5,2469.0,2,685971
+147,Volkswagen,Polo,Volkswagen Polo,Highline Plus 1.0 (P),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),999,3,18.78,74.96,95,45.0,1469.0,3971.0,1682.0,5,5,2469.0,2,787371
+148,Volkswagen,Polo,Volkswagen Polo,Trendline 1.5L (D),Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,20.14,88.77,230,45.0,1469.0,3971.0,1682.0,5,5,2469.0,2,744783
+149,Volkswagen,Polo,Volkswagen Polo,Comfortline 1.5 (D),Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,20.14,88.77,230,45.0,1469.0,3971.0,1682.0,5,5,2469.0,2,863421
+150,Volkswagen,Polo,Volkswagen Polo,Highline Plus 1.5 (D),Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,20.14,88.77,230,45.0,1469.0,3971.0,1682.0,5,5,2469.0,2,944541
+151,Volkswagen,Polo,Volkswagen Polo,Gt Tsi,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,17.21,103.56,175,45.0,1469.0,3971.0,1682.0,5,5,2469.0,2,989664
+152,Volkswagen,Polo,Volkswagen Polo,Gt Tdi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,19.91,108.5,250,45.0,1469.0,3971.0,1682.0,5,5,2469.0,2,1002339
+153,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Lxi,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1197,4,22.0,82.85,115,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,590769
+154,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Vxi,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1197,4,22.0,82.85,115,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,682535
+155,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Ldi,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,28.4,73.97,190,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,675954
+156,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Zxi,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1197,4,22.0,82.85,115,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,742362
+157,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Vdi,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,28.4,73.97,190,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,768228
+158,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Vxi Amt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,22.0,82.85,115,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,730193
+159,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Zdi Amt,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1248,4,28.4,73.97,190,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,875205
+160,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Zdi,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,28.4,73.97,190,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,828054
+161,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Zxi Plus,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1197,4,22.0,82.85,115,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,833115
+162,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Zxi At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,22.0,82.85,115,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,790020
+163,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Zxi Plus Amt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,22.0,82.85,115,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,880773
+164,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Zdi Plus,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,28.4,73.97,190,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,918807
+165,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Vdi Amt,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1248,4,28.4,73.97,190,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,815886
+166,Maruti Suzuki,Dzire,Maruti Suzuki Dzire,Zdi Plus Amt,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1248,4,28.4,73.97,190,37.0,1515.0,3995.0,1735.0,4,5,2450.0,2,965958
+167,Ford,Freestyle,Ford Freestyle,1.5L Tdci Ambiente,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1498,4,24.4,98.63,215,40.0,1570.0,3954.0,1737.0,5,5,2490.0,2,685869
+168,Ford,Freestyle,Ford Freestyle,1.5L Tdci Titanium,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,24.4,98.63,215,40.0,1570.0,3954.0,1737.0,5,5,2490.0,2,801972
+169,Ford,Freestyle,Ford Freestyle,1.5L Tdci Titanium Plus,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,24.4,98.63,215,40.0,1570.0,3954.0,1737.0,5,5,2490.0,6,848109
+170,Ford,Freestyle,Ford Freestyle,1.2L Ti-Vct Ambiente,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1194,3,19.0,94.69,120,42.0,1570.0,3954.0,1737.0,5,5,2490.0,2,599679
+171,Ford,Freestyle,Ford Freestyle,1.2L Ti-Vct Titanium,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1194,3,19.0,94.69,120,42.0,1570.0,3954.0,1737.0,5,5,2490.0,2,731499
+172,Ford,Freestyle,Ford Freestyle,1.2L Ti-Vct Titanium Plus,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1194,3,19.0,94.69,120,42.0,1570.0,3954.0,1737.0,5,5,2490.0,6,766989
+173,Ford,Freestyle,Ford Freestyle,1.2L Ti-Vct Trend Plus,Crossover,Petrol,Manual,FWD (Front Wheel Drive),1194,3,19.0,94.69,120,42.0,1570.0,3954.0,1737.0,5,5,2490.0,2,690939
+174,Ford,Freestyle,Ford Freestyle,1.5L Tdci Trend Plus,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1498,3,24.4,98.63,215,42.0,1570.0,3954.0,1737.0,5,5,2490.0,2,756342
+179,Volkswagen,Ameo,Volkswagen Ameo,Trendline 1.0L,Sedan,Petrol,Manual,FWD (Front Wheel Drive),999,3,19.0,74.96,95,45.0,1483.0,3995.0,1682.0,4,5,2470.0,2,602316
+180,Volkswagen,Ameo,Volkswagen Ameo,Comfortline 1.0L,Sedan,Petrol,Manual,FWD (Front Wheel Drive),999,3,19.0,74.96,95,45.0,1483.0,3995.0,1682.0,4,5,2470.0,2,674310
+181,Volkswagen,Ameo,Volkswagen Ameo,Highline Plus 1.0L,Sedan,Petrol,Manual,FWD (Front Wheel Drive),999,3,19.0,74.96,95,45.0,1483.0,3995.0,1682.0,4,5,2470.0,2,811098
+183,Ford,Aspire,Ford Aspire,1.2 Ti-Vct Ambiente,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1194,4,20.4,94.69,120,42.0,1525.0,3995.0,1704.0,4,5,2490.0,2,606879
+184,Ford,Aspire,Ford Aspire,1.2 Ti-Vct Trend Plus,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1194,4,20.4,94.69,120,42.0,1525.0,3995.0,1704.0,4,5,2490.0,2,707163
+185,Ford,Aspire,Ford Aspire,1.2 Ti-Vct Trend,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1194,4,20.4,94.69,120,42.0,1525.0,3995.0,1704.0,4,5,2490.0,2,672687
+186,Ford,Aspire,Ford Aspire,1.5 Tdci Ambiente,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,26.1,98.63,215,40.0,1525.0,3995.0,1704.0,4,5,2490.0,2,709191
+187,Ford,Aspire,Ford Aspire,1.5 Tdci Trend,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,26.1,98.63,215,40.0,1525.0,3995.0,1704.0,4,5,2490.0,2,747723
+188,Ford,Aspire,Ford Aspire,1.5 Tdci Trend Plus,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,26.1,98.63,215,40.0,1525.0,3995.0,1705.0,4,5,2490.0,2,788283
+189,Ford,Aspire,Ford Aspire,1.5 Tdci Titanium,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,26.1,98.63,215,40.0,1525.0,3995.0,1704.0,4,5,2490.0,2,828843
+190,Ford,Aspire,Ford Aspire,1.5 Tdci Titanium Plus,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,26.1,98.63,215,40.0,1525.0,3995.0,1704.0,4,5,2490.0,6,874473
+191,Ford,Aspire,Ford Aspire,1.2 Ti-Vct Titanium Plus,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1194,4,19.4,94.69,120,42.0,1525.0,3995.0,1704.0,4,5,2490.0,6,793353
+192,Ford,Aspire,Ford Aspire,1.2 Ti-Vct Titanium,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1194,4,19.4,94.69,120,42.0,1525.0,3995.0,1704.0,4,5,2490.0,2,747723
+194,Ford,Aspire,Ford Aspire,1.2 Ti-Vct Blu,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1194,4,19.4,94.69,120,42.0,1525.0,3995.0,1704.0,4,5,2490.0,2,773073
+195,Ford,Aspire,Ford Aspire,1.5 Tdci Blu,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,26.1,98.63,215,40.0,1525.0,3995.0,1704.0,4,5,2490.0,2,854193
+196,Toyota,Platinum Etios,Toyota Platinum Etios,G,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1496,4,16.78,88.77,132,45.0,1510.0,4369.0,1695.0,4,5,2550.0,2,635879
+197,Toyota,Platinum Etios,Toyota Platinum Etios,V,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1496,4,16.78,88.77,132,45.0,1510.0,4369.0,1695.0,4,5,2550.0,2,728660
+198,Toyota,Platinum Etios,Toyota Platinum Etios,Gd,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,4369.0,1695.0,4,5,2550.0,2,744985
+199,Toyota,Platinum Etios,Toyota Platinum Etios,Vd,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,4369.0,1695.0,4,5,2550.0,2,840200
+200,Toyota,Platinum Etios,Toyota Platinum Etios,Vxd,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,4369.0,1695.0,4,5,2550.0,2,900837
+201,Toyota,Platinum Etios,Toyota Platinum Etios,Vx,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1496,4,16.78,88.77,132,45.0,1510.0,4369.0,1695.0,4,5,2550.0,2,789297
+202,Toyota,Platinum Etios,Toyota Platinum Etios,Gx,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1496,4,16.78,88.77,132,45.0,1510.0,4369.0,1695.0,4,5,2550.0,2,699254
+203,Toyota,Platinum Etios,Toyota Platinum Etios,Gxd,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,4369.0,1695.0,4,5,2550.0,2,810794
+204,Toyota,Platinum Etios,Toyota Platinum Etios,Vxd Limited Edition,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1510.0,4369.0,1695.0,4,5,2550.0,2,926187
+205,Toyota,Platinum Etios,Toyota Platinum Etios,Vx Limited Edition,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1496,4,16.78,88.77,132,45.0,1510.0,4369.0,1695.0,4,5,2550.0,2,814647
+206,Toyota,Etios Cross,Toyota Etios Cross,V,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1496,4,16.78,88.77,132,45.0,1555.0,3895.0,1735.0,5,5,2460.0,2,813228
+207,Toyota,Etios Cross,Toyota Etios Cross,G,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,17.71,78.91,104,45.0,1555.0,3895.0,1735.0,5,5,2460.0,2,659100
+208,Toyota,Etios Cross,Toyota Etios Cross,Vd,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1555.0,3895.0,1735.0,5,5,2460.0,2,808665
+209,Toyota,Etios Cross,Toyota Etios Cross,Gd,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1555.0,3895.0,1735.0,5,5,2460.0,2,776724
+210,Toyota,Etios Cross,Toyota Etios Cross,1.2 X Edition,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,17.71,78.91,104,45.0,1555.0,3895.0,1735.0,5,5,2460.0,2,677859
+211,Toyota,Etios Cross,Toyota Etios Cross,1.4 X Edition,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1364,4,23.59,67.07,170,45.0,1555.0,3895.0,1735.0,5,5,2460.0,2,827424
+212,Mahindra,Verito Vibe,Mahindra Verito Vibe,D2,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1461,4,20.08,64.11,160,50.0,1540.0,3991.0,1740.0,5,5,2630.0,0,666834
+213,Mahindra,Verito Vibe,Mahindra Verito Vibe,D4,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1461,4,20.08,64.11,160,50.0,1540.0,3991.0,1740.0,5,5,2630.0,0,695329
+214,Mahindra,Verito Vibe,Mahindra Verito Vibe,D6,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1461,4,20.08,64.11,160,50.0,1540.0,3991.0,1740.0,5,5,2630.0,1,760933
+215,Fiat,Urban Cross,Fiat Urban Cross,1.3 Multijet Active,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.0,91.73,209,45.0,1542.0,3989.0,1706.0,5,5,2510.0,0,687104
+216,Fiat,Urban Cross,Fiat Urban Cross,1.3 Multijet Dynamic,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.0,91.73,209,45.0,1542.0,3989.0,1706.0,5,5,2510.0,0,749421
+217,Fiat,Urban Cross,Fiat Urban Cross,1.4 T-Jet Emotion,Crossover,Petrol,Manual,FWD (Front Wheel Drive),1368,4,17.1,138.08,210,45.0,1542.0,3989.0,1706.0,5,5,2510.0,2,991201
+218,Fiat,Urban Cross,Fiat Urban Cross,1.3 Multijet Emotion,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.0,91.73,209,45.0,1542.0,3989.0,1706.0,5,5,2510.0,2,821553
+219,Toyota,Glanza,Toyota Glanza,G Hybrid,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,23.87,87.78,113,37.0,1540.0,3995.0,1745.0,5,5,2520.0,2,732006
+220,Toyota,Glanza,Toyota Glanza,V,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,21.01,80.88,113,37.0,1540.0,3995.0,1745.0,5,5,2520.0,2,768814
+221,Toyota,Glanza,Toyota Glanza,G Cvt,Hatchback,Petrol,CVT,FWD (Front Wheel Drive),1197,4,19.56,80.88,113,37.0,1540.0,3995.0,1745.0,5,5,2520.0,2,841518
+222,Toyota,Glanza,Toyota Glanza,V Cvt,Hatchback,Petrol,CVT,FWD (Front Wheel Drive),1197,4,19.56,80.88,113,37.0,1540.0,3995.0,1745.0,5,5,2520.0,2,902662
+223,Toyota,Glanza,Toyota Glanza,G Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,19.56,80.88,113,37.0,1540.0,3995.0,1745.0,5,5,2520.0,2,707670
+224,Fiat,Avventura,Fiat Avventura,Multijet Dynamic,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.5,91.73,209,45.0,1542.0,3989.0,1706.0,5,5,2510.0,0,807277
+225,Fiat,Avventura,Fiat Avventura,Multijet Active,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.5,91.73,209,45.0,1542.0,3989.0,1706.0,5,5,2510.0,0,721766
+226,Fiat,Avventura,Fiat Avventura,Multijet Emotion,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.5,91.73,209,45.0,1542.0,3989.0,1706.0,5,5,2510.0,2,888609
+227,Honda,Jazz,Honda Jazz,V Petrol,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1199,4,18.2,88.77,110,40.0,1544.0,3955.0,1694.0,5,5,2530.0,2,755430
+228,Honda,Jazz,Honda Jazz,Vx Cvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1199,4,19.0,88.77,110,40.0,1544.0,3955.0,1694.0,5,5,2530.0,2,921726
+229,Honda,Jazz,Honda Jazz,Vx Petrol,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1199,4,18.2,88.77,110,40.0,1544.0,3955.0,1694.0,5,5,2530.0,2,800046
+230,Honda,Jazz,Honda Jazz,V Cvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1199,4,19.0,88.77,110,40.0,1544.0,3955.0,1694.0,5,5,2530.0,2,877110
+231,Honda,Jazz,Honda Jazz,S Diesel,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,27.3,98.63,200,40.0,1544.0,3955.0,1694.0,5,5,2530.0,2,827931
+232,Honda,Jazz,Honda Jazz,V Diesel,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,27.3,98.63,200,40.0,1544.0,3955.0,1694.0,5,5,2530.0,2,909051
+233,Honda,Jazz,Honda Jazz,Vx Diesel,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,27.3,98.63,200,40.0,1544.0,3955.0,1694.0,5,5,2530.0,2,953667
+234,Honda,Jazz,Honda Jazz,Exclusive Edition Cvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1199,4,18.2,87.78,110,40.0,1544.0,3955.0,1694.0,5,5,2530.0,2,940992
+235,Jeep,Compass Trailhawk,Jeep Compass Trailhawk,2.0 Trailhawk 4X4 At,SUV,Diesel,Automatic,AWD (All Wheel Drive),1956,4,16.3,170.63,350,60.0,1657.0,4398.0,1818.0,5,5,2636.0,6,2717520
+236,Jeep,Compass Trailhawk,Jeep Compass Trailhawk,2.0 Trailhawk (O) 4X4 At,SUV,Diesel,Automatic,AWD (All Wheel Drive),1956,4,16.3,170.63,350,60.0,1657.0,4398.0,1818.0,5,5,2636.0,6,2798640
+237,Isuzu,Mu-X,Isuzu Mu-X,4X2,SUV,Diesel,Automatic,RWD (Rear Wheel Drive),2999,4,13.8,174.58,380,76.0,1840.0,4825.0,1860.0,5,7,2845.0,2,2773121
+238,Isuzu,Mu-X,Isuzu Mu-X,4X4,SUV,Diesel,Automatic,AWD (All Wheel Drive),2999,4,13.8,174.58,380,76.0,1840.0,4825.0,1860.0,5,7,2845.0,2,2972575
+240,Mahindra,Alturas G4,Mahindra Alturas G4,4Wd At,SUV,Diesel,Automatic,4WD,2157,4,12.05,175.56,420,70.0,1.845,4850.0,1960.0,5,7,2865.0,9,3113132
+241,Volkswagen,Tiguan,Volkswagen Tiguan,Comfortline 2.0L Tdi Amt,SUV,Diesel,Automatic,AWD (All Wheel Drive),1968,4,17.06,139.07,340,71.0,1672.0,4486.0,1839.0,5,5,2677.0,6,2853903
+243,Honda,Cr-V,Honda Cr-V,2Wd Petrol Cvt,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1997,4,14.4,151.89,189,57.0,1679.0,4592.0,1855.0,5,5,2660.0,6,2866579
+246,Skoda,Superb Sportline,Skoda Superb Sportline,Sportline 1.8L Tsi At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1798,4,13.7,177.54,250,66.0,1483.0,4861.0,1864.0,4,5,2841.0,8,2940193
+247,Skoda,Superb Sportline,Skoda Superb Sportline,Sportline 2.0L Tdi At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,18.19,174.58,350,66.0,1483.0,4861.0,1864.0,4,5,2841.0,8,3193693
+248,Audi,A3,Audi A3,35 Tdi Premium Plus,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,20.38,141.04,320,50.0,1416.0,4456.0,1796.0,4,5,2637.0,9,3063496
+249,Audi,A3,Audi A3,35 Tdi Technology,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,20.38,141.04,320,50.0,1416.0,4456.0,1796.0,4,5,2637.0,9,3266296
+250,Audi,A3,Audi A3,35 Tfsi Premium Plus,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1395,4,19.2,147.95,250,50.0,1416.0,4456.0,1796.0,4,5,2637.0,9,2961640
+251,Audi,A3,Audi A3,35 Tfsi Technology,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1395,4,19.2,147.95,250,50.0,1416.0,4456.0,1796.0,4,5,2637.0,9,3164440
+259,Skoda,Kodiaq,Skoda Kodiaq,Style 2.0 Tdi 4X4 At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,18.19,174.58,350,66.0,1483.0,4861.0,1864.0,4,5,2841.0,8,3345793
+260,Skoda,Kodiaq,Skoda Kodiaq,Laurin And Klement,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,18.19,145.98,340,66.0,1483.0,4861.0,1864.0,4,5,2841.0,9,3730099
+261,Skoda,Kodiaq,Skoda Kodiaq,Corporate Edition,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,18.19,174.58,350,66.0,1483.0,4861.0,1864.0,4,5,2841.0,9,3345793
+262,Dc,Avanti,Dc Avanti,Standard,Coupe,Petrol,Manual,RWD (Rear Wheel Drive),2000,4,10.0,246.58,340,60.0,1200.0,4565.0,2120.0,2,2,2700.0,0,3455110
+263,Audi,Q3,Audi Q3,30 Tdi Premium Fwd,SUV,Diesel,Manual,FWD (Front Wheel Drive),1968,4,15.73,145.98,340,64.0,1608.0,4388.0,1831.0,5,5,2603.0,6,3728680
+264,Audi,Q3,Audi Q3,35 Tdi Quattro Premium Plus,SUV,Diesel,Automatic,AWD (All Wheel Drive),1968,4,15.73,174.58,380,64.0,1608.0,4388.0,1831.0,5,5,2603.0,6,4048090
+265,Audi,Q3,Audi Q3,35 Tdi Quattro Technology,SUV,Diesel,Automatic,AWD (All Wheel Drive),1968,4,15.73,174.58,380,64.0,1608.0,4388.0,1831.0,5,5,2603.0,6,4422054
+266,Audi,Q3,Audi Q3,30 Tfsi Premium,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1395,4,16.9,147.95,250,64.0,1608.0,4388.0,1831.0,5,5,2603.0,6,3545704
+275,Mini,John Cooper Works,Mini John Cooper Works,Hatch,"Sports, Hatchback",Petrol,Automatic,FWD (Front Wheel Drive),1998,4,16.47,227.84,320,44.0,1414.0,3874.0,1727.0,3,2,2495.0,2,4410900
+276,Jaguar,Xe,Jaguar Xe,S Petrol,Sedan,Petrol,Automatic,RWD (Rear Wheel Drive),1997,4,11.0,246.58,365,61.0,1416.0,4691.0,1850.0,4,5,2835.0,6,4560972
+277,Jaguar,Xe,Jaguar Xe,S Diesel,Sedan,Diesel,Automatic,RWD (Rear Wheel Drive),1999,4,11.0,177.54,430,56.0,1416.0,4691.0,1850.0,4,4,2835.0,6,4560972
+278,Jaguar,Xe,Jaguar Xe,Se Diesel,Sedan,Diesel,Automatic,RWD (Rear Wheel Drive),1999,4,11.0,177.54,430,56.0,1416.0,4691.0,1850.0,4,4,2835.0,6,4697862
+279,Jaguar,Xe,Jaguar Xe,Se Petrol,Sedan,Petrol,Automatic,RWD (Rear Wheel Drive),1997,4,11.0,246.58,365,61.0,1416.0,4691.0,1850.0,4,5,2835.0,6,4697862
+280,Jaguar,Xf,Jaguar Xf,2.0 Prestige,Sedan,Petrol,Automatic,RWD (Rear Wheel Drive),1999,4,13.12,243.62,340,74.0,1460.0,4961.0,2091.0,4,5,2960.0,6,5512437
+281,Jaguar,Xf,Jaguar Xf,2.0 Portfolio,Sedan,Petrol,Automatic,RWD (Rear Wheel Drive),1999,4,13.12,243.62,340,82.0,1457.0,5252.0,1899.0,4,5,3157.0,6,6158474
+282,Jaguar,Xf,Jaguar Xf,2.0 Portfolio Diesel,Sedan,Diesel,Automatic,RWD (Rear Wheel Drive),1999,4,19.33,177.54,430,83.0,1457.0,5252.0,1899.0,4,5,3157.0,6,6224754
+283,Jaguar,Xf,Jaguar Xf,2.0 Prestige Diesel,Sedan,Diesel,Automatic,RWD (Rear Wheel Drive),1999,4,19.33,177.54,430,66.0,1457.0,5067.0,2091.0,4,5,2960.0,6,5583714
+284,Jaguar,Xf,Jaguar Xf,2.0 Pure Diesel,Sedan,Diesel,Automatic,RWD (Rear Wheel Drive),1999,4,19.33,177.54,430,66.0,1457.0,5067.0,2091.0,4,5,2960.0,6,5046759
+285,Audi,A3 Cabriolet,Audi A3 Cabriolet,40 Tfsi,Convertible,Petrol,Automatic,FWD (Front Wheel Drive),1395,4,19.2,145.98,250,50.0,1409.0,4421.0,1793.0,2,4,2595.0,7,5108532
+286,Audi,A6,Audi A6,Premium Plus 45 Tfsi,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1984,4,14.11,241.65,370,73.0,1455.0,4933.0,1874.0,4,5,2912.0,8,5518390
+287,Audi,A6,Audi A6,Technology 45 Tfsi,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1984,4,14.11,241.65,370,73.0,1455.0,4933.0,1874.0,4,5,2912.0,8,6025390
+288,Bmw,X3,Bmw X3,Xdrive 20D Luxury Line,SUV,Diesel,Automatic,4WD,1995,4,18.56,187.4,400,67.0,1678.0,4657.0,1881.0,5,5,2810.0,6,6013020
+289,Bmw,X3,Bmw X3,Xdrive 30I Luxury Line,SUV,Petrol,Automatic,4WD,1998,4,18.56,244.61,350,67.0,1678.0,4657.0,1881.0,5,5,2810.0,6,5962320
+290,Bmw,X3,Bmw X3,Xdrive20D Xline,SUV,Diesel,Automatic,4WD,1995,4,18.56,187.4,400,67.0,1678.0,4657.0,1881.0,5,5,2810.0,6,5678400
+294,Audi,S5,Audi S5,Sportback,Sedan,Petrol,Automatic,AWD (All Wheel Drive),2995,6,13.57,328.44,500,58.0,1384.0,4718.0,1843.0,4,5,2811.0,10,7344402
+298,Ford,Mustang,Ford Mustang,Fastback V8,"Sedan, Coupe",Petrol,Automatic,RWD (Rear Wheel Drive),4951,8,13.0,395.51,515,60.9,1391.0,4784.0,2080.0,3,4,2720.0,8,7566468
+299,Jeep,Grand Cherokee,Jeep Grand Cherokee,Limited,SUV,Diesel,Automatic,AWD (All Wheel Drive),2987,6,12.8,236.72,570,93.5,1802.0,4828.0,1943.0,5,5,2915.0,6,7993227
+300,Jeep,Grand Cherokee,Jeep Grand Cherokee,Summit,SUV,Diesel,Automatic,AWD (All Wheel Drive),2987,6,12.8,236.72,570,93.5,1802.0,4828.0,1943.0,5,5,2915.0,6,9056864
+301,Jeep,Grand Cherokee,Jeep Grand Cherokee,Srt,SUV,Petrol,Automatic,AWD (All Wheel Drive),6417,8,12.8,461.6,624,93.5,1749.0,4846.0,1954.0,5,5,2915.0,7,11559600
+302,Jeep,Grand Cherokee,Jeep Grand Cherokee,Summit Petrol,SUV,Petrol,Automatic,AWD (All Wheel Drive),3604,6,8.61,282.09,347,93.5,1802.0,4828.0,1943.0,5,5,2915.0,6,7620210
+304,Bmw,M2 Competition,Bmw M2 Competition,Coupe,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),2979,6,10.0,404.39,550,52.0,1410.0,4461.0,1854.0,2,4,2693.0,10,8294520
+305,Porsche,718,Porsche 718,Boxster,Convertible,Petrol,Automatic,RWD (Rear Wheel Drive),1988,4,7.4,295.9,380,54.0,1281.0,4379.0,1801.0,2,2,2475.0,4,9120930
+306,Porsche,718,Porsche 718,Cayman,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),1988,4,7.4,295.9,380,54.0,1281.0,4379.0,1801.0,2,2,2475.0,4,8715330
+312,Toyota,Land Cruiser Prado,Toyota Land Cruiser Prado,Vx L,SUV,Diesel,Automatic,4WD,2982,4,11.13,170.63,410,87.0,1880.0,4840.0,1885.0,5,7,2790.0,7,9764820
+313,Lexus,Rx 450H,Lexus Rx 450H,450Hl Luxury,SUV,Petrol,Automatic,AWD (All Wheel Drive),3456,6,18.0,258.42,335,65.0,1700.0,5000.0,1895.0,4,5,2790.0,10,10038600
+315,Bmw,7-Series,Bmw 7-Series,730Ld Design Pure Excellence,Sedan,Diesel,Automatic,AWD (All Wheel Drive),2993,6,17.66,261.37,620,78.0,1479.0,5120.0,2169.0,4,4,3210.0,8,12462060
+316,Bmw,7-Series,Bmw 7-Series,730Ld Design Pure Excellence Signature,Sedan,Diesel,Automatic,AWD (All Wheel Drive),2993,6,17.66,261.37,620,78.0,1479.0,5120.0,2169.0,4,4,3210.0,8,13384800
+317,Bmw,7-Series,Bmw 7-Series,730Ld M Sport,Sedan,Diesel,Automatic,AWD (All Wheel Drive),2993,6,17.66,261.37,620,78.0,1479.0,5120.0,2169.0,4,4,3210.0,8,13699140
+318,Bmw,7-Series,Bmw 7-Series,740Li Design Pure Excellence Signature,Sedan,Petrol,Automatic,AWD (All Wheel Drive),2998,6,11.86,335.35,450,78.0,1479.0,5120.0,2169.0,4,4,3210.0,8,13699140
+320,Bmw,7-Series,Bmw 7-Series,M760Li Xdrive,Sedan,Petrol,Automatic,AWD (All Wheel Drive),6592,12,7.96,600.67,850,78.0,1481.0,5219.0,2142.0,4,4,3110.0,8,24589500
+325,Maserati,Levante,Maserati Levante,Diesel,SUV,Diesel,Automatic,AWD (All Wheel Drive),2987,6,7.9,271.24,600,80.0,1679.0,5003.0,2158.0,4,4,3004.0,6,14715222
+326,Maserati,Levante,Maserati Levante,Gransport,SUV,Diesel,Automatic,AWD (All Wheel Drive),2979,6,7.9,345.21,500,80.0,1679.0,5003.0,2158.0,5,4,3004.0,6,15071866
+327,Maserati,Levante,Maserati Levante,Granlusson,SUV,Diesel,Automatic,AWD (All Wheel Drive),2979,6,7.9,424.12,580,80.0,1679.0,5003.0,2158.0,5,4,3004.0,6,15598766
+331,Maserati,Granturismo,Maserati Granturismo,Sport,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),4691,8,10.0,453.71,520,86.0,1353.0,4881.0,1915.0,2,4,2942.0,6,17470793
+332,Maserati,Quattroporte,Maserati Quattroporte,Granlusso,Sports,Diesel,Automatic,RWD (Rear Wheel Drive),2987,6,7.9,271.24,600,70.0,1481.0,5262.0,1948.0,4,4,3171.0,6,18150600
+336,Porsche,Panamera,Porsche Panamera,Turbo,Sedan,Petrol,Automatic,AWD (All Wheel Drive),3996,8,10.63,542.48,770,90.0,1427.0,5049.0,1937.0,4,4,2950.0,6,21560682
+337,Porsche,Panamera,Porsche Panamera,Turbo Executive,Sedan,Petrol,Automatic,AWD (All Wheel Drive),3996,8,10.63,542.48,770,90.0,1432.0,5199.0,1937.0,4,4,3100.0,6,22929582
+338,Porsche,Panamera,Porsche Panamera,Turbo Sport Turismo,Sedan,Petrol,Automatic,AWD (All Wheel Drive),3996,8,10.63,542.48,770,90.0,1432.0,5049.0,1937.0,4,4,2950.0,6,22051458
+341,Audi,R8,Audi R8,V10 Plus,Coupe,Petrol,Automatic,AWD (All Wheel Drive),5204,10,6.71,601.66,560,75.0,1252.0,4440.0,2029.0,2,2,2650.0,8,27626430
+342,Lamborghini,Urus,Lamborghini Urus,V8,SUV,Petrol,Automatic,AWD (All Wheel Drive),3996,8,7.8,641.11,850,75.0,1638.0,5112.0,2181.0,5,5,3003.0,8,30420000
+343,Bentley,Continental Gt,Bentley Continental Gt,Coupe,Coupe,Petrol,Automatic,AWD (All Wheel Drive),5998,12,8.6,581.93,720,90.0,1401.0,4807.0,2226.0,2,4,2746.0,6,34264133
+344,Ferrari,Portofino,Ferrari Portofino,V8 Convertible,Convertible,Petrol,Automatic,AWD (All Wheel Drive),3855,8,9.0,552.34,755,92.0,1320.0,4569.0,1910.0,2,2,2669.0,4,35490000
+345,Bentley,Bentayga,Bentley Bentayga,W12,SUV,Petrol,Automatic,AWD (All Wheel Drive),5950,12,19.0,599.68,900,85.0,1742.0,5141.0,1998.0,5,5,2992.0,6,46584738
+346,Bentley,Bentayga,Bentley Bentayga,V8,SUV,Petrol,Automatic,AWD (All Wheel Drive),3996,12,8.77,542.48,770,85.0,1742.0,5140.0,1998.0,5,5,2995.0,6,38067657
+348,Ferrari,458 Speciale,Ferrari 458 Speciale,Coupe,Coupe,Petrol,Automatic,AWD (All Wheel Drive),4497,8,9.0,596.72,540,86.0,1203.0,4571.0,1951.0,2,2,2650.0,5,43126941
+352,Bentley,Mulsanne,Bentley Mulsanne,Sedan,Sedan,Petrol,Automatic,RWD (Rear Wheel Drive),6752,8,9.5,505.0,1020,90.0,1521.0,5575.0,2208.0,4,4,3266.0,6,53307292
+359,Maruti Suzuki,Alto,Maruti Suzuki Alto,Std,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),796,3,22.05,47.34,69,35.0,1475.0,3445.0,1490.0,5,5,2360.0,0,298927
+360,Maruti Suzuki,Alto,Maruti Suzuki Alto,Std (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),796,3,22.05,47.34,69,35.0,1475.0,3445.0,1490.0,5,5,2360.0,2,304098
+361,Maruti Suzuki,Alto,Maruti Suzuki Alto,Lxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),796,3,22.05,46.36,69,35.0,1475.0,3445.0,1490.0,5,5,2360.0,0,357840
+362,Maruti Suzuki,Alto,Maruti Suzuki Alto,Lxi (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),796,3,22.05,47.34,69,35.0,1475.0,3445.0,1490.0,5,5,2360.0,1,362200
+363,Maruti Suzuki,Alto,Maruti Suzuki Alto,Vxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),796,3,22.05,47.34,69,35.0,1475.0,3445.0,1490.0,5,5,2360.0,2,381365
+364,Maruti Suzuki,Alto,Maruti Suzuki Alto,Lxi Cng (Cng +,Hatchback,CNG + Petrol,Manual,FWD (Front Wheel Drive),796,3,22.05,46.36,69,35.0,1475.0,3445.0,1490.0,5,5,2360.0,0,411247
+365,Maruti Suzuki,Alto,Maruti Suzuki Alto,Lxi (O) Cng (Cng +,Hatchback,CNG + Petrol,Manual,FWD (Front Wheel Drive),796,3,22.05,47.34,69,35.0,1475.0,3445.0,1490.0,5,5,2360.0,1,414918
+366,Maruti Suzuki,Alto,Maruti Suzuki Alto,Vxi Plus,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),796,3,22.05,47.34,69,35.0,1475.0,3445.0,1490.0,5,5,2360.0,2,395054
+367,Maruti Suzuki,S-Presso,Maruti Suzuki S-Presso,Std,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,21.4,66.08,90,27.0,1549.0,3565.0,1520.0,5,5,2380.0,1,375687
+368,Maruti Suzuki,S-Presso,Maruti Suzuki S-Presso,Std (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,21.4,66.08,90,27.0,1549.0,3565.0,1520.0,5,5,2380.0,2,381771
+369,Maruti Suzuki,S-Presso,Maruti Suzuki S-Presso,Lxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,21.4,66.08,90,27.0,1549.0,3565.0,1520.0,5,5,2380.0,1,414726
+370,Maruti Suzuki,S-Presso,Maruti Suzuki S-Presso,Lxi (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,21.4,66.08,90,27.0,1549.0,3565.0,1520.0,5,5,2380.0,2,420810
+371,Maruti Suzuki,S-Presso,Maruti Suzuki S-Presso,Vxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,21.7,66.08,90,27.0,1549.0,3565.0,1520.0,5,5,2380.0,1,438555
+372,Maruti Suzuki,S-Presso,Maruti Suzuki S-Presso,Vxi (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,21.7,66.08,90,27.0,1549.0,3565.0,1520.0,5,5,2380.0,2,444639
+373,Maruti Suzuki,S-Presso,Maruti Suzuki S-Presso,Vxi Ags,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),998,3,21.7,66.08,90,27.0,1549.0,3565.0,1520.0,5,5,2380.0,1,482157
+374,Maruti Suzuki,S-Presso,Maruti Suzuki S-Presso,Vxi+,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,21.7,66.08,90,27.0,1549.0,3565.0,1520.0,5,5,2380.0,2,462384
+375,Maruti Suzuki,S-Presso,Maruti Suzuki S-Presso,Vxi (O) Ags,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),998,3,21.7,66.08,90,27.0,1549.0,3565.0,1520.0,5,5,2380.0,2,488241
+376,Maruti Suzuki,S-Presso,Maruti Suzuki S-Presso,Vxi+ Ags,Hatchback,Petrol,AMT,FWD (Front Wheel Drive),998,3,21.7,66.08,90,27.0,1549.0,3565.0,1520.0,5,5,2380.0,2,505986
+377,Maruti Suzuki,Celerio,Maruti Suzuki Celerio,Lxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,0,432257
+378,Maruti Suzuki,Celerio,Maruti Suzuki Celerio,Vxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,0,471649
+379,Maruti Suzuki,Celerio,Maruti Suzuki Celerio,Vxi At,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,0,515251
+380,Maruti Suzuki,Celerio,Maruti Suzuki Celerio,Zxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,1,497796
+381,Maruti Suzuki,Celerio,Maruti Suzuki Celerio,Zxi (Opt),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,2,538716
+383,Maruti Suzuki,Celerio,Maruti Suzuki Celerio,Zxi Ags,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,1,541398
+384,Maruti Suzuki,Celerio,Maruti Suzuki Celerio,Lxi Mt (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,2,440744
+385,Maruti Suzuki,Celerio,Maruti Suzuki Celerio,Vxi (O) Mt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,2,478868
+386,Maruti Suzuki,Celerio,Maruti Suzuki Celerio,Vxi (O) Ags,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,2,522470
+387,Maruti Suzuki,Celerio,Maruti Suzuki Celerio,Zxi (O) Ags,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),998,3,23.1,67.07,90,35.0,1560.0,3600.0,1600.0,5,5,2425.0,2,550884
+390,Hyundai,Grand I10 Prime,Hyundai Grand I10 Prime,Era T Vtvt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,19.77,81.86,114,43.0,1520.0,3765.0,1660.0,5,5,2425.0,1,466814
+391,Hyundai,Grand I10 Prime,Hyundai Grand I10 Prime,Era T+ Vtvt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,19.77,81.86,114,43.0,1520.0,3765.0,1660.0,5,5,2425.0,1,484196
+394,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K2 6Str,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,6,2385.0,0,495028
+395,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K2+ 6Str,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,6,2385.0,2,539634
+396,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K2 D 6Str,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,6,2385.0,0,599069
+397,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K2+ D 6Str,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,6,2385.0,2,627912
+398,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K4+ D 6Str,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,6,2385.0,2,676614
+399,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K4+ 6Str,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,6,2385.0,2,587760
+400,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K6+ 6Str,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,6,2385.0,2,639980
+401,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K6+ D 6Str,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,6,2385.0,2,765111
+402,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K8 6Str,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,6,2385.0,2,703259
+403,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K8 D 6Str,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,6,2385.0,2,798326
+404,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K8 6 Str Dual Tone,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,6,2385.0,2,710859
+405,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K8 D 6 Str Dual Tone,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,6,2385.0,2,805927
+406,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K4+ 5Str,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,5,2385.0,2,581275
+407,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K6+ 5Str,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,5,2385.0,2,639982
+408,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K8 5Str,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,5,2385.0,2,696795
+409,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K4+ D 5Str,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,5,2385.0,2,670083
+410,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K6+ D 5Str,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,5,2385.0,2,758601
+411,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K8 D 5Str,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,5,2385.0,2,791816
+412,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K2 D 5Str Taxi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,5,2385.0,0,557857
+413,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K2 D 6Str Taxi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1198,3,25.32,75.95,190,35.0,1655.0,3700.0,1735.0,5,6,2385.0,0,567577
+414,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K2 5Str Cng Taxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,5,2385.0,0,531652
+415,Mahindra,Kuv100 Nxt,Mahindra Kuv100 Nxt,K2 6Str Cng Taxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1198,3,18.15,80.88,115,35.0,1655.0,3700.0,1735.0,5,6,2385.0,0,550513
+416,Maruti Suzuki,Swift,Maruti Suzuki Swift,Lxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.4,81.86,113,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,526266
+417,Maruti Suzuki,Swift,Maruti Suzuki Swift,Vxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.4,81.86,113,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,627666
+418,Maruti Suzuki,Swift,Maruti Suzuki Swift,Vxi Amt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,20.4,81.86,113,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,675324
+419,Maruti Suzuki,Swift,Maruti Suzuki Swift,Zxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.4,81.86,113,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,687492
+420,Maruti Suzuki,Swift,Maruti Suzuki Swift,Zxi Amt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,20.4,81.86,113,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,735150
+421,Maruti Suzuki,Swift,Maruti Suzuki Swift,Zxi Plus,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.4,81.86,113,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,768612
+422,Maruti Suzuki,Swift,Maruti Suzuki Swift,Ldi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,25.2,73.97,190,37.0,1530.0,3840.0,1735.0,5,5,2430.0,2,607386
+423,Maruti Suzuki,Swift,Maruti Suzuki Swift,Vdi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,25.2,73.97,190,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,707772
+424,Maruti Suzuki,Swift,Maruti Suzuki Swift,Vdi Amt,Hatchback,Diesel,Automatic,FWD (Front Wheel Drive),1248,4,25.2,73.97,190,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,755430
+425,Maruti Suzuki,Swift,Maruti Suzuki Swift,Zdi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,25.2,73.97,190,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,767598
+426,Maruti Suzuki,Swift,Maruti Suzuki Swift,Zdi Amt,Hatchback,Diesel,Automatic,FWD (Front Wheel Drive),1248,4,25.2,73.97,190,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,815256
+427,Maruti Suzuki,Swift,Maruti Suzuki Swift,Zdi Plus,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,25.2,73.97,190,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,849732
+428,Maruti Suzuki,Swift,Maruti Suzuki Swift,Zxi Plus Amt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,20.4,81.86,113,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,813228
+429,Maruti Suzuki,Swift,Maruti Suzuki Swift,Zdi Plus Amt,Hatchback,Diesel,Automatic,FWD (Front Wheel Drive),1248,4,25.2,73.97,190,37.0,1530.0,3840.0,1735.0,5,5,2450.0,2,896376
+430,Tata,Altroz,Tata Altroz,Xe Petrol,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1199,3,18.0,84.82,113,37.0,1523.0,3990.0,1755.0,5,5,2501.0,2,536406
+435,Tata,Altroz,Tata Altroz,Xe Diesel,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1497,4,25.0,88.77,200,37.0,1523.0,3990.0,1755.0,5,5,2501.0,2,708786
+451,Tata,Tigor,Tata Tigor,Revotron Xe,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1199,3,23.0,84.82,113,35.0,1537.0,3992.0,1677.0,4,5,2450.0,0,583050
+452,Tata,Tigor,Tata Tigor,Revotron Xm,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1199,3,23.0,84.82,113,35.0,1537.0,3992.0,1677.0,4,5,2450.0,0,618540
+453,Tata,Tigor,Tata Tigor,Revotron Xz,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1199,3,23.0,84.82,113,35.0,1537.0,3992.0,1677.0,4,5,2450.0,2,659100
+454,Tata,Tigor,Tata Tigor,Revotron Xz Plus,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1199,3,23.0,84.82,113,35.0,1537.0,3992.0,1677.0,4,5,2450.0,2,708786
+455,Tata,Tigor,Tata Tigor,Revotron Xma,Sedan,Petrol,AMT,FWD (Front Wheel Drive),1199,3,23.0,84.82,113,35.0,1537.0,3992.0,1677.0,4,5,2450.0,2,669240
+456,Tata,Tigor,Tata Tigor,Revotron Xza Plus,Sedan,Petrol,AMT,FWD (Front Wheel Drive),1199,3,23.0,84.82,113,35.0,1537.0,3992.0,1677.0,4,5,2450.0,2,759486
+457,Tata,Zest,Tata Zest,Xe Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1193,4,17.6,88.77,140,44.0,1570.0,3995.0,1706.0,4,5,2470.0,0,590439
+458,Tata,Zest,Tata Zest,Xe Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,23.0,73.97,190,44.0,1570.0,3995.0,1706.0,4,5,2470.0,0,712787
+459,Tata,Zest,Tata Zest,Xm Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1193,4,17.6,88.77,140,44.0,1570.0,3995.0,1706.0,4,5,2470.0,0,663080
+460,Tata,Zest,Tata Zest,Xms Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1193,4,17.6,88.77,140,44.0,1570.0,3995.0,1706.0,4,5,2470.0,2,682057
+461,Tata,Zest,Tata Zest,Xt Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1193,4,17.6,88.77,140,44.0,1570.0,3995.0,1706.0,4,5,2470.0,2,742729
+462,Tata,Zest,Tata Zest,Xm Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,23.0,73.97,190,44.0,1570.0,3995.0,1706.0,4,5,2470.0,0,778059
+463,Tata,Zest,Tata Zest,Xms Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.65,73.97,190,44.0,1570.0,3995.0,1706.0,5,5,2470.0,2,805012
+464,Tata,Zest,Tata Zest,Xt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,23.0,88.77,200,44.0,1570.0,3995.0,1706.0,4,5,2470.0,2,867337
+465,Tata,Zest,Tata Zest,Xma Diesel,Sedan,Diesel,AMT,FWD (Front Wheel Drive),1248,4,23.0,73.97,190,44.0,1570.0,3995.0,1706.0,4,5,2470.0,0,848028
+466,Tata,Zest,Tata Zest,Xta Diesel,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1248,4,23.0,88.77,200,44.0,1570.0,3995.0,1706.0,4,5,2470.0,2,1002846
+467,Tata,Zest,Tata Zest,Zest Premio Edition,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.65,73.97,190,44.0,1570.0,3995.0,1706.0,5,5,2470.0,2,799840
+468,Honda,Amaze,Honda Amaze,S Cvt Petrol,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1199,4,19.0,88.77,110,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,773682
+469,Honda,Amaze,Honda Amaze,E Mt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,27.4,98.63,200,35.0,1498.0,3995.0,1695.0,4,5,2470.0,2,714870
+470,Honda,Amaze,Honda Amaze,E Mt Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1199,4,19.5,88.77,110,35.0,1498.0,3995.0,1695.0,4,5,2470.0,2,601302
+471,Honda,Amaze,Honda Amaze,S Cvt Diesel,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1498,4,23.8,78.91,160,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,877110
+472,Honda,Amaze,Honda Amaze,V Cvt Petrol,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1199,4,19.0,88.77,110,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,834522
+473,Honda,Amaze,Honda Amaze,V Cvt Diesel,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1498,4,23.8,78.91,160,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,937950
+474,Honda,Amaze,Honda Amaze,S Mt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,27.4,98.63,200,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,795990
+475,Honda,Amaze,Honda Amaze,Vx Mt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,27.4,98.63,200,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,905502
+476,Honda,Amaze,Honda Amaze,V Mt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,27.4,98.63,200,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,856830
+477,Honda,Amaze,Honda Amaze,Vx Mt Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1199,4,19.5,88.77,110,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,791934
+478,Honda,Amaze,Honda Amaze,V Mt Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1199,4,19.5,88.77,110,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,743262
+479,Honda,Amaze,Honda Amaze,S Mt Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1198,4,19.5,88.77,110,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,682422
+480,Honda,Amaze,Honda Amaze,Exclusive Edition Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,27.4,98.63,200,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,918684
+481,Honda,Amaze,Honda Amaze,Exclusive Edition Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1199,4,19.5,88.77,110,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,805116
+482,Honda,Amaze,Honda Amaze,Vx Cvt Diesel,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1498,4,27.4,98.63,200,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,979524
+483,Honda,Amaze,Honda Amaze,Vx Cvt Petrol,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1199,4,19.5,88.77,110,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,876096
+484,Honda,Amaze,Honda Amaze,Ace Edition Cvt Diesel,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1498,4,27.4,98.63,200,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,993010
+485,Honda,Amaze,Honda Amaze,Ace Edition Cvt Petrol,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1199,4,19.5,88.77,110,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,889582
+486,Honda,Amaze,Honda Amaze,Ace Edition Mt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,27.4,98.63,200,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,918988
+487,Honda,Amaze,Honda Amaze,Ace Edition Mt Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1199,4,19.5,88.77,110,35.0,1501.0,3995.0,1695.0,4,5,2470.0,2,805420
+488,Maruti Suzuki,Gypsy,Maruti Suzuki Gypsy,Hard Top,SUV,Petrol,Manual,4WD,1298,4,11.9,78.91,103,40.0,1875.0,4010.0,1540.0,3,8,2375.0,0,646265
+489,Maruti Suzuki,Gypsy,Maruti Suzuki Gypsy,Soft Top,SUV,Petrol,Manual,4WD,1298,4,11.9,78.91,103,40.0,1845.0,4010.0,1540.0,3,8,2375.0,0,631448
+490,Hyundai,Venue,Hyundai Venue,1.2 Kappa Mt E,SUV,Petrol,Manual,FWD (Front Wheel Drive),1197,4,17.52,80.88,112,45.0,1590.0,3995.0,1770.0,5,5,2500.0,2,664170
+491,Hyundai,Venue,Hyundai Venue,1.0 Turbo Gdi Mt S,SUV,Petrol,Manual,FWD (Front Wheel Drive),998,4,18.27,115.4,172,45.0,1590.0,3995.0,1770.0,5,5,2500.0,2,837564
+493,Hyundai,Venue,Hyundai Venue,1.0 Turbo Gdi Mt Sx,SUV,Petrol,Manual,FWD (Front Wheel Drive),998,4,18.27,115.4,172,45.0,1590.0,3995.0,1770.0,5,5,2500.0,2,972426
+494,Hyundai,Venue,Hyundai Venue,1.0 Turbo Gdi Mt Sx Dual Tone,SUV,Petrol,Manual,FWD (Front Wheel Drive),998,4,18.27,115.4,172,45.0,1590.0,3995.0,1770.0,5,5,2500.0,2,987636
+495,Hyundai,Venue,Hyundai Venue,1.0 Turbo Gdi Mt Sx(O),SUV,Petrol,Manual,FWD (Front Wheel Drive),998,4,18.27,115.4,1712,45.0,1590.0,3995.0,1770.0,5,5,2500.0,6,1079910
+496,Hyundai,Venue,Hyundai Venue,1.0 Turbo Gdi Dct S,SUV,Petrol,DCT,FWD (Front Wheel Drive),998,4,18.15,116.39,172,45.0,1590.0,3995.0,1770.0,5,5,2500.0,2,953160
+497,Hyundai,Venue,Hyundai Venue,1.0 Turbo Gdi Dct Sx Plus,SUV,Petrol,DCT,FWD (Front Wheel Drive),998,4,18.15,116.39,172,45.0,1590.0,3995.0,1770.0,5,5,2500.0,2,1131117
+498,Hyundai,Venue,Hyundai Venue,1.2 Kappa Mt S,SUV,Petrol,Manual,FWD (Front Wheel Drive),1197,4,17.52,80.88,115,45.0,1590.0,3995.0,1770.0,5,5,2500.0,2,735150
+502,Hyundai,Venue,Hyundai Venue,1.4 Crdi Mt Sx(O),SUV,Diesel,Manual,FWD (Front Wheel Drive),1397,4,23.7,88.77,22,45.0,1590.0,3995.0,1770.0,5,5,2500.0,6,1104246
+504,Tata,Nexon,Tata Nexon,Xm,SUV,Petrol,Manual,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,780780
+505,Tata,Nexon,Tata Nexon,Xz,SUV,Petrol,Manual,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,882180
+506,Tata,Nexon,Tata Nexon,Xz Plus,SUV,Petrol,Manual,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,963300
+507,Tata,Nexon,Tata Nexon,Xz Plus Dual Tone,SUV,Petrol,Manual,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,983580
+508,Tata,Nexon,Tata Nexon,Xz Plus (O),SUV,Petrol,Manual,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1054560
+509,Tata,Nexon,Tata Nexon,Xz Plus (O) Dual Tone,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1074840
+510,Tata,Nexon,Tata Nexon,Xma,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,841620
+511,Tata,Nexon,Tata Nexon,Xza Plus,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1024140
+512,Tata,Nexon,Tata Nexon,Xza Plus Dual Tone,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1044420
+513,Tata,Nexon,Tata Nexon,Xza Plus (O),SUV,Petrol,Automatic,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1115400
+514,Tata,Nexon,Tata Nexon,Xza Plus (O) Dual Tone,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1198,3,17.6,108.5,170,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1135680
+515,Tata,Nexon,Tata Nexon,Xe Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,856830
+516,Tata,Nexon,Tata Nexon,Xm Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,932880
+517,Tata,Nexon,Tata Nexon,Xz Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1034280
+518,Tata,Nexon,Tata Nexon,Xz Plus Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1115400
+519,Tata,Nexon,Tata Nexon,Xz Plus Diesel Dual Tone,SUV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1135680
+520,Tata,Nexon,Tata Nexon,Xz Plus (O) Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1206660
+521,Tata,Nexon,Tata Nexon,Xz Plus (O) Diesel Dual Tone,SUV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1226940
+522,Tata,Nexon,Tata Nexon,Xma Diesel,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,993720
+523,Tata,Nexon,Tata Nexon,Xza Plus Diesel,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1176240
+524,Tata,Nexon,Tata Nexon,Xza Plus Diesel Dual Tone,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1196520
+525,Tata,Nexon,Tata Nexon,Xza Plus (O) Diesel,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1267500
+526,Tata,Nexon,Tata Nexon,Xza Plus (O) Diesel Dual Tone,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1497,4,23.97,108.5,260,44.0,1607.0,3994.0,1811.0,5,5,2498.0,2,1287780
+527,Fiat,Linea,Fiat Linea,Active Fire,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1368,4,15.7,112.44,207,45.0,1487.0,4596.0,1730.0,4,5,2603.0,0,725882
+528,Fiat,Linea,Fiat Linea,Active Multijet,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.4,91.73,209,45.0,1494.0,4596.0,1730.0,4,5,2603.0,0,874245
+529,Fiat,Linea,Fiat Linea,Dynamic Multijet,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.4,91.73,209,45.0,1494.0,4596.0,1730.0,5,5,2603.0,2,945073
+530,Fiat,Linea,Fiat Linea,Emotion Multijet,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.4,91.73,209,45.0,1494.0,4596.0,1730.0,4,5,2603.0,2,1005314
+531,Fiat,Linea,Fiat Linea,T-Jet Emotion,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1368,4,15.7,112.44,207,45.0,1487.0,4596.0,1730.0,4,5,2603.0,2,1011731
+532,Mahindra,Bolero Power Plus,Mahindra Bolero Power Plus,Zlx,SUV,Diesel,Manual,FWD (Front Wheel Drive),1493,4,16.5,69.04,195,60.0,1880.0,3995.0,1745.0,5,7,2680.0,0,898807
+533,Mahindra,Bolero Power Plus,Mahindra Bolero Power Plus,Slx,SUV,Diesel,Manual,FWD (Front Wheel Drive),1493,4,16.5,69.04,195,60.0,1880.0,3995.0,1745.0,5,7,2680.0,0,863220
+534,Mahindra,Bolero Power Plus,Mahindra Bolero Power Plus,Sle,SUV,Diesel,Manual,FWD (Front Wheel Drive),1493,4,16.5,69.04,195,60.0,1880.0,3995.0,1745.0,5,7,2680.0,0,796655
+535,Mahindra,Bolero Power Plus,Mahindra Bolero Power Plus,Lx,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1493,4,16.5,69.04,195,60.0,1880.0,3995.0,1745.0,5,7,2680.0,1,759680
+537,Mahindra,Bolero Power Plus,Mahindra Bolero Power Plus,Plus Non Ac Bs4 Ps,SUV,Diesel,Manual,FWD (Front Wheel Drive),2523,4,15.96,62.14,195,60.0,1977.0,4440.0,1660.0,5,9,2794.0,0,830584
+538,Maruti Suzuki,Vitara Brezza,Maruti Suzuki Vitara Brezza,Ldi,SUV,Diesel,Manual,FWD (Front Wheel Drive),1248,4,24.3,88.77,200,48.0,1640.0,3995.0,1790.0,5,5,2500.0,2,773420
+539,Maruti Suzuki,Vitara Brezza,Maruti Suzuki Vitara Brezza,Vdi,SUV,Diesel,Manual,FWD (Front Wheel Drive),1248,4,24.3,88.77,200,48.0,1640.0,3995.0,1790.0,5,5,2500.0,2,826148
+540,Maruti Suzuki,Vitara Brezza,Maruti Suzuki Vitara Brezza,Zdi,SUV,Diesel,Manual,FWD (Front Wheel Drive),1248,4,24.3,88.77,200,48.0,1640.0,3995.0,1790.0,5,5,2500.0,2,904734
+541,Maruti Suzuki,Vitara Brezza,Maruti Suzuki Vitara Brezza,Zdi+,SUV,Diesel,Manual,FWD (Front Wheel Drive),1248,4,24.3,88.77,200,48.0,1640.0,3995.0,1790.0,5,5,2500.0,2,1001571
+542,Maruti Suzuki,Vitara Brezza,Maruti Suzuki Vitara Brezza,Zdi+ Dual Tone,SUV,Diesel,Manual,FWD (Front Wheel Drive),1248,4,24.3,88.77,200,48.0,1640.0,3995.0,1790.0,5,5,2500.0,2,1017601
+543,Maruti Suzuki,Vitara Brezza,Maruti Suzuki Vitara Brezza,Zdi+ Ags,SUV,Diesel,Manual,FWD (Front Wheel Drive),1248,4,24.3,88.77,200,48.0,1640.0,3995.0,1790.0,5,5,2500.0,2,1052270
+544,Maruti Suzuki,Vitara Brezza,Maruti Suzuki Vitara Brezza,Vdi Ags,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1248,4,24.3,88.77,200,48.0,1640.0,3995.0,1790.0,5,5,2500.0,1,876848
+545,Maruti Suzuki,Vitara Brezza,Maruti Suzuki Vitara Brezza,Zdi Ags,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1248,4,24.3,88.77,200,48.0,1640.0,3995.0,1790.0,5,5,2500.0,2,955434
+546,Maruti Suzuki,Vitara Brezza,Maruti Suzuki Vitara Brezza,Zdi+ Dual Tone Ags,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1248,4,24.3,88.77,200,48.0,1640.0,3995.0,1790.0,5,5,2500.0,2,1074578
+547,Hyundai,I20 Active,Hyundai I20 Active,1.2 S,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,17.19,81.86,114,40.0,1555.0,3995.0,1760.0,5,5,2570.0,2,784871
+548,Hyundai,I20 Active,Hyundai I20 Active,1.2 Sx,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,17.19,81.86,114,40.0,1555.0,3995.0,1760.0,5,5,2570.0,6,870555
+549,Hyundai,I20 Active,Hyundai I20 Active,1.2 Sx Dual Tone,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,17.19,81.86,114,40.0,1555.0,3995.0,1760.0,5,5,2570.0,6,894650
+550,Hyundai,I20 Active,Hyundai I20 Active,1.4 Sx,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1396,4,21.19,88.77,220,40.0,1555.0,3995.0,1760.0,5,5,2570.0,6,1007300
+551,Ford,Ecosport,Ford Ecosport,1.5L Ti-Vct Ambiente,SUV,Petrol,Manual,FWD (Front Wheel Drive),1497,3,17.0,121.32,150,52.0,1647.0,3998.0,1765.0,5,5,2519.0,2,802074
+552,Ford,Ecosport,Ford Ecosport,1.5L Ti-Vct Trend,SUV,Petrol,Manual,FWD (Front Wheel Drive),1497,3,17.0,121.32,150,52.0,1647.0,3998.0,1765.0,5,5,2519.0,2,883194
+553,Ford,Ecosport,Ford Ecosport,1.5L Ti-Vct Titanium,SUV,Petrol,Manual,FWD (Front Wheel Drive),1497,3,17.0,121.32,150,52.0,1647.0,3998.0,1765.0,5,5,2519.0,2,963300
+554,Ford,Ecosport,Ford Ecosport,1.5L Ti-Vct Titanium Plus At,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1497,3,14.8,121.32,150,52.0,1647.0,3998.0,1765.0,5,5,2519.0,6,1145820
+555,Ford,Ecosport,Ford Ecosport,1.5L Tdci Ambiente,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,23.0,98.63,205,52.0,1647.0,3998.0,1765.0,5,5,2519.0,2,852774
+556,Ford,Ecosport,Ford Ecosport,1.5L Tdci Trend,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,23.0,98.63,205,52.0,1647.0,3998.0,1765.0,5,5,2519.0,2,933894
+557,Ford,Ecosport,Ford Ecosport,1.5L Tdci Titanium,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,23.0,98.63,205,52.0,1647.0,3998.0,1765.0,5,5,2579.0,2,1013898
+558,Ford,Ecosport,Ford Ecosport,1.5L Tdci Titanium Plus,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,23.0,98.63,205,52.0,1647.0,3998.0,1765.0,5,5,2519.0,6,1105260
+559,Ford,Ecosport,Ford Ecosport,1.5L Ti-Vct Titanium Plus,SUV,Petrol,Manual,FWD (Front Wheel Drive),1497,4,23.0,121.32,150,52.0,1647.0,3998.0,1765.0,5,5,2519.0,6,1013898
+560,Ford,Ecosport,Ford Ecosport,1.5L Tdci Titanium S,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,3,23.0,98.63,205,52.0,1647.0,3998.0,1765.0,5,5,2519.0,6,1161030
+561,Ford,Ecosport,Ford Ecosport,1.5L Ti-Vct Thunder Edition,SUV,Petrol,Manual,FWD (Front Wheel Drive),1497,4,23.0,121.32,150,52.0,1647.0,3998.0,1765.0,5,5,2519.0,6,1013898
+562,Ford,Ecosport,Ford Ecosport,1.5L Tdci Thunder Edition,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,23.0,98.63,205,52.0,1647.0,3998.0,1765.0,5,5,2519.0,6,1105260
+563,Renault,Duster,Renault Duster,Rxe Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1498,4,13.87,104.55,142,50.0,1695.0,4315.0,1822.0,5,5,2673.0,2,811189
+564,Renault,Duster,Renault Duster,Rxs Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1498,4,13.87,104.55,142,50.0,1695.0,4315.0,1822.0,5,5,2673.0,2,932869
+565,Renault,Duster,Renault Duster,Rxs (Opt) Cvt,SUV,Petrol,CVT,FWD (Front Wheel Drive),1498,4,13.87,104.55,142,50.0,1695.0,4315.0,1822.0,5,5,2673.0,2,1013989
+566,Renault,Duster,Renault Duster,85 Ps Rxe Mt Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,19.6,83.84,200,50.0,1695.0,4315.0,1822.0,5,5,2673.0,2,943009
+567,Renault,Duster,Renault Duster,85 Ps Rxs Mt Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,19.6,83.84,200,50.0,1695.0,4315.0,1822.0,5,5,2673.0,2,1013989
+568,Renault,Duster,Renault Duster,110 Ps Rxs Mt Diesel,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1461,4,19.6,108.5,245,50.0,1695.0,4315.0,1822.0,5,5,2673.0,2,1135669
+569,Renault,Duster,Renault Duster,110 Ps Rxz Mt Diesel,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1461,4,19.6,108.5,245,50.0,1695.0,4315.0,1822.0,5,5,2673.0,2,1226929
+570,Renault,Duster,Renault Duster,110 Ps Rxz Amt Diesel,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1461,4,19.6,108.5,245,50.0,1695.0,4315.0,1822.0,5,5,2673.0,2,1267489
+571,Renault,Duster,Renault Duster,110 Ps Rxs Awd (Opt) Diesel,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1461,4,19.6,108.5,245,50.0,1695.0,4315.0,1822.0,5,5,2673.0,2,1267489
+572,Hyundai,Verna,Hyundai Verna,1.6 Vtvt Sx,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1591,4,17.7,121.32,151,45.0,1445.0,4440.0,1729.0,4,5,2600.0,2,1013898
+573,Hyundai,Verna,Hyundai Verna,1.6 Crdi Sx,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1582,4,23.9,126.25,260,45.0,1445.0,4440.0,1729.0,4,5,2600.0,2,1188959
+574,Hyundai,Verna,Hyundai Verna,1.6 Crdi Sx (O),Sedan,Diesel,Manual,FWD (Front Wheel Drive),1582,4,23.5,126.25,260,45.0,1445.0,4440.0,1729.0,4,5,2600.0,6,1320107
+575,Hyundai,Verna,Hyundai Verna,1.6 Vtvt Sx (O),Sedan,Petrol,Manual,FWD (Front Wheel Drive),1591,4,17.7,121.32,151,45.0,1445.0,4440.0,1729.0,4,5,2600.0,6,1189420
+576,Hyundai,Verna,Hyundai Verna,1.6 Crdi Sx Plus At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1582,4,17.1,126.25,260,45.0,1445.0,4440.0,1729.0,4,5,2600.0,2,1347144
+577,Hyundai,Verna,Hyundai Verna,1.6 Vtvt Sx(O) At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1591,4,17.7,121.32,155,45.0,1445.0,4440.0,1729.0,4,5,2600.0,6,1306030
+578,Hyundai,Verna,Hyundai Verna,1.4 Vtvt Ex,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1396,4,19.1,98.63,133,45.0,1445.0,4440.0,1729.0,4,5,2600.0,2,946246
+579,Hyundai,Verna,Hyundai Verna,1.4 Vtvt E,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1396,4,19.1,98.63,133,45.0,1445.0,4440.0,1729.0,4,5,2600.0,2,829317
+580,Hyundai,Verna,Hyundai Verna,1.6 Vtvt Sx (O) Anniversary Edition,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1591,4,17.7,121.32,151,45.0,1445.0,4440.0,1729.0,4,5,2600.0,6,1195398
+581,Hyundai,Verna,Hyundai Verna,1.6 Vtvt Sx Plus At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1591,4,17.7,121.32,155,45.0,1445.0,4440.0,1729.0,4,5,2600.0,6,1179155
+582,Hyundai,Verna,Hyundai Verna,1.6 Crdi Sx(O) At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1582,4,17.1,126.25,260,45.0,1445.0,4440.0,1729.0,4,5,2600.0,2,1427581
+595,Mahindra,Xuv300,Mahindra Xuv300,1.5 W6 Amt,SUV,Diesel,AMT,RWD (Rear Wheel Drive),1497,4,20.0,113.43,300,42.0,1617.0,3995.0,1821.0,5,5,2600.0,2,1012986
+596,Renault,Lodgy,Renault Lodgy,85 Ps Std,MUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,21.04,83.84,200,50.0,1697.0,4498.0,1751.0,4,8,2810.0,0,875385
+597,Renault,Lodgy,Renault Lodgy,85 Ps Rxe 8 Seater,MUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,21.04,83.84,200,50.0,1697.0,4498.0,1751.0,4,8,2810.0,0,977697
+599,Renault,Lodgy,Renault Lodgy,Stepway Rxz 110Ps 7-Seater,MUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,19.98,108.5,245,50.0,1697.0,4498.0,1751.0,4,7,2810.0,2,1228561
+600,Renault,Lodgy,Renault Lodgy,Stepway Rxl 85Ps 8-Seater,MUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,21.04,83.84,200,50.0,1697.0,4498.0,1751.0,4,8,2810.0,2,1068653
+601,Renault,Lodgy,Renault Lodgy,Stepway Rxz 85Ps 8-Seater,MUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,21.04,83.84,200,50.0,1697.0,4498.0,1751.0,4,8,2810.0,2,1145920
+602,Renault,Lodgy,Renault Lodgy,85 Ps Rxe 7 Seater,MUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,21.04,83.84,200,50.0,1697.0,4498.0,1751.0,4,7,2810.0,0,977697
+603,Volkswagen,Vento,Volkswagen Vento,Trendline 1.6 (P),Sedan,Petrol,Manual,FWD (Front Wheel Drive),1598,4,16.09,103.56,153,55.0,1467.0,4390.0,1699.0,5,5,2553.0,2,888771
+604,Volkswagen,Vento,Volkswagen Vento,Highline 1.6 (P),Sedan,Petrol,Manual,FWD (Front Wheel Drive),1598,4,16.09,103.56,153,55.0,1467.0,4390.0,1699.0,4,5,2553.0,2,1013898
+605,Volkswagen,Vento,Volkswagen Vento,Comfortline 1.6 (P),Sedan,Petrol,Manual,FWD (Front Wheel Drive),1598,4,16.09,103.56,153,55.0,1467.0,4390.0,1699.0,4,5,2553.0,2,1013898
+606,Volkswagen,Vento,Volkswagen Vento,Highline 1.2 (P) Dsg,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,18.19,103.56,175,55.0,1467.0,4390.0,1699.0,4,5,2553.0,2,1214265
+607,Volkswagen,Vento,Volkswagen Vento,Highline Plus 1.2 (P) Dsg,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,18.19,103.56,175,55.0,1467.0,4390.0,1699.0,4,5,2553.0,2,1469793
+608,Volkswagen,Vento,Volkswagen Vento,Trendline 1.5 (D),Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,20.64,103.56,250,55.0,1467.0,4390.0,1699.0,4,5,2553.0,2,971919
+609,Volkswagen,Vento,Volkswagen Vento,Comfortline 1.5 (D),Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,20.64,103.56,250,55.0,1467.0,4390.0,1699.0,4,5,2553.0,2,1013898
+610,Volkswagen,Vento,Volkswagen Vento,Highline 1.5 (D),Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,20.64,103.56,250,55.0,1467.0,4390.0,1699.0,4,5,2553.0,2,1227447
+611,Volkswagen,Vento,Volkswagen Vento,Highline 1.5 (D) Dsg,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1498,4,21.5,103.56,250,55.0,1467.0,4390.0,1699.0,4,5,2553.0,2,1355211
+612,Volkswagen,Vento,Volkswagen Vento,Highline Plus 1.5 (D) Dsg,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1498,4,20.64,103.56,250,55.0,1467.0,4390.0,1699.0,4,5,2553.0,2,1335945
+613,Volkswagen,Vento,Volkswagen Vento,Gt Line (D),Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,19.91,108.5,250,45.0,1469.0,3971.0,1682.0,5,5,2469.0,2,1469793
+614,Volkswagen,Vento,Volkswagen Vento,Gt Line (P) Dsg,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,17.21,103.56,175,45.0,1469.0,3971.0,1682.0,5,5,2469.0,2,1335945
+620,Honda,Brv,Honda Brv,E Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1497,4,15.4,117.37,145,42.0,1666.0,4453.0,1735.0,5,7,2662.0,2,966240
+621,Honda,Brv,Honda Brv,S Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1497,4,15.4,117.37,145,42.0,1666.0,4453.0,1735.0,5,7,2662.0,2,1067640
+622,Honda,Brv,Honda Brv,V Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1497,4,15.4,117.37,145,42.0,1666.0,4453.0,1735.0,5,7,2662.0,2,1184250
+623,Honda,Brv,Honda Brv,Vx Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1497,4,15.4,117.37,145,42.0,1666.0,4456.0,1735.0,5,7,2662.0,2,1289706
+624,Honda,Brv,Honda Brv,V Cvt Petrol,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1497,4,16.0,117.37,145,42.0,1666.0,4456.0,1735.0,5,7,2662.0,2,1303902
+625,Honda,Brv,Honda Brv,S Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,21.9,98.63,200,42.0,1666.0,4453.0,1735.0,5,7,2662.0,2,1204530
+626,Honda,Brv,Honda Brv,V Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,21.9,98.63,200,42.0,1666.0,4453.0,1735.0,5,7,2662.0,2,1291734
+627,Honda,Brv,Honda Brv,Vx Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,21.9,98.63,200,42.0,1666.0,4456.0,1735.0,5,7,2662.0,2,1402260
+628,Mahindra,Thar,Mahindra Thar,Crde,SUV,Diesel,Manual,4WD,2498,4,13.0,103.56,247,60.0,1930.0,3920.0,1726.0,3,6,2430.0,0,973298
+629,Mahindra,Thar,Mahindra Thar,700 Special Edition,SUV,Diesel,Manual,4WD,2498,4,13.0,103.56,247,60.0,1930.0,3920.0,1726.0,3,6,2430.0,0,1013136
+630,Mahindra,Thar,Mahindra Thar,Crde Abs,SUV,Diesel,Manual,4WD,2498,4,13.0,103.56,247,60.0,1930.0,3920.0,1726.0,3,6,2430.0,0,988508
+631,Force,Gurkha,Force Gurkha,Xpedition 5 Door,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2596,4,17.0,83.84,230,63.0,2055.0,4342.0,1790.0,5,7,2750.0,0,1012986
+632,Force,Gurkha,Force Gurkha,Xplorer 3 Door,SUV,Diesel,Manual,4WD,2596,4,17.0,83.84,230,63.0,2055.0,3992.0,1790.0,3,5,2400.0,0,1090050
+635,Force,Gurkha,Force Gurkha,Xpedition 3 Door,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2596,4,17.0,83.84,230,63.0,2055.0,4342.0,1790.0,5,7,2750.0,0,988650
+636,Force,Gurkha,Force Gurkha,Xplorer 5 Door,SUV,Diesel,Manual,4WD,2596,4,17.0,83.84,230,63.0,2055.0,3992.0,1790.0,5,5,2400.0,0,1242150
+637,Maruti Suzuki,Xl6,Maruti Suzuki Xl6,Zeta Mt,MPV,Petrol,Manual,FWD (Front Wheel Drive),1462,4,19.01,102.58,138,45.0,1700.0,4445.0,1775.0,5,6,2740.0,2,998474
+638,Maruti Suzuki,Xl6,Maruti Suzuki Xl6,Alpha Mt,MPV,Petrol,Manual,FWD (Front Wheel Drive),1462,4,19.01,102.58,138,45.0,1700.0,4445.0,1775.0,5,6,2740.0,2,1055765
+639,Maruti Suzuki,Xl6,Maruti Suzuki Xl6,Zeta At,MPV,Petrol,Automatic,FWD (Front Wheel Drive),1462,4,17.01,102.58,138,45.0,1700.0,4445.0,1775.0,5,6,2740.0,2,1110014
+640,Maruti Suzuki,Xl6,Maruti Suzuki Xl6,Alpha At,MPV,Petrol,Automatic,FWD (Front Wheel Drive),1462,4,17.01,102.58,138,45.0,1700.0,4445.0,1775.0,5,6,2740.0,2,1167305
+642,Mahindra,Tuv300 Plus,Mahindra Tuv300 Plus,P4,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2179,3,18.49,118.36,280,60.0,1812.0,4400.0,1835.0,5,9,2680.0,2,1006646
+643,Mahindra,Tuv300 Plus,Mahindra Tuv300 Plus,P6,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2179,3,18.49,118.36,280,60.0,1812.0,4400.0,1835.0,5,9,2680.0,2,1044065
+644,Mahindra,Tuv300 Plus,Mahindra Tuv300 Plus,P8,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2179,3,18.49,118.36,280,60.0,1812.0,4400.0,1835.0,5,9,2680.0,2,1158147
+645,Mahindra,Marazzo,Mahindra Marazzo,M2 7 Str,MPV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,17.3,119.34,300,45.0,1774.0,4585.0,1866.0,5,7,2760.0,2,1013898
+646,Mahindra,Marazzo,Mahindra Marazzo,M4 7 Str,MPV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,17.3,119.34,300,45.0,1774.0,4585.0,1866.0,5,7,2760.0,2,1172661
+647,Mahindra,Marazzo,Mahindra Marazzo,M6 7 Str,MPV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,17.3,119.34,300,45.0,1774.0,4585.0,1866.0,5,7,2760.0,2,1326912
+648,Mahindra,Marazzo,Mahindra Marazzo,M8 7 Str,MPV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,17.3,119.34,300,45.0,1774.0,4585.0,1866.0,5,7,2760.0,2,1488998
+649,Mahindra,Marazzo,Mahindra Marazzo,M2 8 Str,MPV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,17.3,119.34,300,45.0,1774.0,4585.0,1866.0,5,8,2760.0,2,1013898
+650,Mahindra,Marazzo,Mahindra Marazzo,M4 8 Str,MPV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,17.3,119.34,300,45.0,1774.0,4585.0,1866.0,5,8,2760.0,2,1180872
+651,Mahindra,Marazzo,Mahindra Marazzo,M6 8 Str,MPV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,17.3,119.34,300,45.0,1774.0,4585.0,1866.0,5,8,2760.0,2,1335123
+652,Mahindra,Marazzo,Mahindra Marazzo,M8 8 Str,MPV,Diesel,Manual,FWD (Front Wheel Drive),1497,4,17.3,119.34,300,45.0,1774.0,4585.0,1866.0,5,8,2760.0,2,1497209
+653,Mahindra,Scorpio,Mahindra Scorpio,S3 2Wd,SUV,Diesel,Manual,FWD (Front Wheel Drive),2523,4,15.4,73.97,200,60.0,1930.0,4456.0,1820.0,5,9,2680.0,0,1013993
+654,Mahindra,Scorpio,Mahindra Scorpio,4Wd Getaway,SUV,Diesel,Manual,4WD,2179,4,10.22,119.34,280,80.0,1874.0,5118.0,1850.0,5,5,3040.0,0,1253565
+655,Mahindra,Scorpio,Mahindra Scorpio,2Wd Getaway,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2179,4,13.5,119.34,280,80.0,1874.0,5118.0,1850.0,5,5,3040.0,0,1138882
+656,Mahindra,Scorpio,Mahindra Scorpio,S5 2Wd,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,15.4,118.36,280,60.0,1995.0,4456.0,1820.0,5,9,2680.0,2,1237110
+657,Mahindra,Scorpio,Mahindra Scorpio,S7 120 2Wd,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,15.4,118.36,280,60.0,1995.0,4456.0,1820.0,5,9,2680.0,2,1348626
+658,Mahindra,Scorpio,Mahindra Scorpio,S7 140 2Wd,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,15.4,138.08,320,60.0,1995.0,4456.0,1820.0,5,9,2680.0,2,1379717
+659,Mahindra,Scorpio,Mahindra Scorpio,S11 2Wd,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,15.4,138.08,320,60.0,1995.0,4456.0,1820.0,5,9,2680.0,2,1561642
+660,Mahindra,Scorpio,Mahindra Scorpio,S11 4Wd,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,15.4,138.08,320,60.0,1995.0,4456.0,1820.0,5,9,2680.0,2,1686336
+661,Mahindra,Scorpio,Mahindra Scorpio,S9 2Wd,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,15.4,138.08,320,60.0,1995.0,4456.0,1820.0,5,9,2680.0,2,1443641
+662,Skoda,Monte Carlo,Skoda Monte Carlo,Monte Carlo 1.5 Tdi At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1498,4,21.72,108.5,250,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1445557
+663,Skoda,Monte Carlo,Skoda Monte Carlo,Monte Carlo 1.6 Mpi At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1598,4,14.84,103.56,153,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1287373
+664,Skoda,Monte Carlo,Skoda Monte Carlo,Monte Carlo 1.5 Tdi Mt,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,21.13,108.5,250,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1317793
+665,Skoda,Monte Carlo,Skoda Monte Carlo,Monte Carlo 1.6 Mpi Mt,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1598,4,15.41,103.56,153,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1155553
+666,Mahindra,Xuv500,Mahindra Xuv500,G At,SUV,Petrol,Automatic,FWD (Front Wheel Drive),2179,4,13.85,138.08,320,70.0,1785.0,4585.0,1890.0,5,7,2700.0,2,1632722
+667,Mahindra,Xuv500,Mahindra Xuv500,W7,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,15.1,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,2,1438169
+668,Mahindra,Xuv500,Mahindra Xuv500,W7 At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1561040
+669,Mahindra,Xuv500,Mahindra Xuv500,W9,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,2,1611188
+670,Mahindra,Xuv500,Mahindra Xuv500,W9 At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,2,1734059
+671,Mahindra,Xuv500,Mahindra Xuv500,W11,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1740347
+672,Mahindra,Xuv500,Mahindra Xuv500,W11 At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1863312
+673,Mahindra,Xuv500,Mahindra Xuv500,W11 (O),SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1765697
+674,Mahindra,Xuv500,Mahindra Xuv500,W11 (O) At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1888662
+675,Mahindra,Xuv500,Mahindra Xuv500,G At,SUV,Petrol,Automatic,FWD (Front Wheel Drive),2179,4,13.85,138.08,320,70.0,1785.0,4585.0,1890.0,5,7,2700.0,2,1632722
+676,Mahindra,Xuv500,Mahindra Xuv500,W7,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,15.1,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,2,1438169
+677,Mahindra,Xuv500,Mahindra Xuv500,W7 At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1561040
+678,Mahindra,Xuv500,Mahindra Xuv500,W9,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,2,1611188
+679,Mahindra,Xuv500,Mahindra Xuv500,W9 At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,2,1734059
+680,Mahindra,Xuv500,Mahindra Xuv500,W11,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1740347
+681,Mahindra,Xuv500,Mahindra Xuv500,W11 At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1863312
+682,Mahindra,Xuv500,Mahindra Xuv500,W11 (O),SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1765697
+683,Mahindra,Xuv500,Mahindra Xuv500,W11 (O) At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1888662
+684,Mahindra,Xuv500,Mahindra Xuv500,W11 (O) Awd,SUV,Diesel,Manual,AWD (All Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,1878422
+685,Mahindra,Xuv500,Mahindra Xuv500,W11 (O) Awd At,SUV,Diesel,Automatic,AWD (All Wheel Drive),2179,4,16.0,152.88,330,70.0,1785.0,4585.0,1890.0,5,7,2700.0,6,2001295
+686,Mahindra,Xuv500,Mahindra Xuv500,W3,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,16.0,152.88,360,70.0,1785.0,4585.0,1890.0,5,7,2700.0,2,1248156
+690,Tata,Hexa,Tata Hexa,Xm Plus 4X2,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2179,4,17.6,153.87,400,60.0,1791.0,4788.0,1903.0,5,7,2850.0,2,1662325
+692,Tata,Hexa,Tata Hexa,Xta 4X2,SUV,Diesel,Automatic,AWD (All Wheel Drive),2179,4,17.6,153.87,400,60.0,1791.0,4788.0,1903.0,5,6,2850.0,6,1939369
+694,Tata,Hexa,Tata Hexa,Xe 4X2,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2179,4,17.6,147.95,320,60.0,1791.0,4788.0,1903.0,5,7,2850.0,2,1391070
+695,Tata,Hexa,Tata Hexa,Xm 4X2,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2179,4,17.6,153.87,400,60.0,1791.0,4788.0,1903.0,5,7,2850.0,2,1552816
+697,Toyota,Innova Crysta,Toyota Innova Crysta,2.4 Gx 7 Str,MUV,Diesel,Manual,RWD (Rear Wheel Drive),2393,4,15.4,147.95,343,55.0,1795.0,4735.0,1830.0,5,7,2750.0,3,1627470
+698,Toyota,Innova Crysta,Toyota Innova Crysta,2.4 Vx 7 Str,MUV,Diesel,Manual,RWD (Rear Wheel Drive),2393,4,15.0,147.95,343,55.0,1795.0,4735.0,1830.0,5,7,2750.0,3,1953978
+699,Toyota,Innova Crysta,Toyota Innova Crysta,2.4 Gx 8 Str,MUV,Diesel,Manual,RWD (Rear Wheel Drive),2393,4,15.4,147.95,343,55.0,1795.0,4735.0,1830.0,5,8,2750.0,3,1632540
+700,Toyota,Innova Crysta,Toyota Innova Crysta,2.4 Vx 8 Str,MUV,Diesel,Manual,RWD (Rear Wheel Drive),2393,4,15.4,147.95,343,55.0,1795.0,4735.0,1830.0,5,8,2750.0,3,1959048
+701,Toyota,Innova Crysta,Toyota Innova Crysta,2.4 Zx 7 Str,MUV,Diesel,Manual,RWD (Rear Wheel Drive),2393,4,15.1,147.95,343,55.0,1795.0,4735.0,1830.0,5,7,2750.0,7,2142582
+702,Toyota,Innova Crysta,Toyota Innova Crysta,2.7 Gx At 8 Str,MUV,Petrol,Automatic,RWD (Rear Wheel Drive),2694,4,10.83,163.73,245,55.0,1795.0,4735.0,1830.0,5,8,2750.0,7,1642680
+703,Toyota,Innova Crysta,Toyota Innova Crysta,2.7 Gx At 7 Str,MUV,Petrol,Automatic,RWD (Rear Wheel Drive),2694,4,10.83,163.73,245,55.0,1795.0,4735.0,1830.0,5,7,2750.0,7,1637610
+704,Toyota,Innova Crysta,Toyota Innova Crysta,2.7 Zx At 7 Str,MUV,Petrol,Automatic,RWD (Rear Wheel Drive),2393,4,10.75,161.76,245,55.0,1795.0,4735.0,1830.0,5,7,2750.0,7,2132442
+705,Toyota,Innova Crysta,Toyota Innova Crysta,2.7 Vx 7 Str,MUV,Petrol,Manual,RWD (Rear Wheel Drive),2393,4,11.25,147.95,343,55.0,1795.0,4735.0,1830.0,5,7,2750.0,3,1832298
+706,Toyota,Innova Crysta,Toyota Innova Crysta,2.7 Gx Mt 7 Str,MUV,Petrol,Manual,RWD (Rear Wheel Drive),2755,4,11.25,171.62,360,55.0,1795.0,4735.0,1830.0,5,7,2750.0,7,1513902
+707,Toyota,Innova Crysta,Toyota Innova Crysta,2.7 Gx Mt 8 Str,MUV,Petrol,Manual,RWD (Rear Wheel Drive),2755,4,11.25,171.62,360,55.0,1795.0,4735.0,1830.0,5,8,2750.0,7,1518972
+708,Toyota,Innova Crysta,Toyota Innova Crysta,Touring Sport 2.4 Vx 7 Str,MUV,Diesel,Manual,RWD (Rear Wheel Drive),2393,4,15.0,147.95,343,55.0,1795.0,4735.0,1830.0,5,7,2750.0,3,2126358
+709,Toyota,Innova Crysta,Toyota Innova Crysta,Touring Sport 2.7 Vx 7 Str,MUV,Petrol,Manual,RWD (Rear Wheel Drive),2393,4,11.25,163.73,245,55.0,1795.0,4735.0,1830.0,5,7,2750.0,3,1918488
+710,Toyota,Innova Crysta,Toyota Innova Crysta,Touring Sport 2.7 Zx At 7 Str,MUV,Petrol,Automatic,RWD (Rear Wheel Drive),2694,4,10.75,163.73,245,55.0,1795.0,4735.0,1830.0,5,7,2750.0,7,2201394
+711,Toyota,Innova Crysta,Toyota Innova Crysta,2.4 G Plus 7 Str,MUV,Diesel,Manual,RWD (Rear Wheel Drive),2393,4,15.4,147.95,343,55.0,1795.0,4735.0,1830.0,5,7,2750.0,3,1614288
+712,Toyota,Innova Crysta,Toyota Innova Crysta,2.4 G Plus 8 Str,MUV,Diesel,Manual,RWD (Rear Wheel Drive),2393,4,15.1,147.95,343,55.0,1795.0,4735.0,1830.0,5,8,2750.0,3,1609218
+713,Jeep,Compass,Jeep Compass,1.4 Limited At,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1368,6,16.3,159.78,250,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,2023944
+714,Jeep,Compass,Jeep Compass,1.4 Sport,SUV,Petrol,Manual,FWD (Front Wheel Drive),1368,6,16.3,159.78,250,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,1581840
+715,Jeep,Compass,Jeep Compass,1.4 Limited (O) At,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1368,6,14.1,159.78,250,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,2083770
+716,Jeep,Compass,Jeep Compass,2.0 Sport,SUV,Diesel,Manual,FWD (Front Wheel Drive),1956,6,17.1,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,1684254
+717,Jeep,Compass,Jeep Compass,2.0 Longitude,SUV,Diesel,Manual,FWD (Front Wheel Drive),1956,6,17.1,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,1828242
+718,Jeep,Compass,Jeep Compass,2.0 Longitude (O),SUV,Diesel,Manual,FWD (Front Wheel Drive),1956,6,17.1,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,1914432
+719,Jeep,Compass,Jeep Compass,2.0 Limited,SUV,Diesel,Manual,FWD (Front Wheel Drive),1956,6,17.1,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,2000622
+720,Jeep,Compass,Jeep Compass,2.0 Limited (O),SUV,Diesel,Manual,FWD (Front Wheel Drive),1956,6,17.1,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,2050308
+721,Jeep,Compass,Jeep Compass,2.0 Limited 4X4,SUV,Diesel,Manual,AWD (All Wheel Drive),1956,6,16.3,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,6,2181114
+722,Jeep,Compass,Jeep Compass,2.0 Limited (O) 4X4,SUV,Diesel,Manual,AWD (All Wheel Drive),1956,6,16.3,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,6,2229786
+723,Jeep,Compass,Jeep Compass,1.4 Limited Plus At Petrol,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1368,6,16.3,159.78,250,60.0,1640.0,4395.0,1818.0,5,5,2636.0,6,2197338
+724,Jeep,Compass,Jeep Compass,2.0 Limited Plus 4X2 Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1956,6,17.1,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,6,2162862
+725,Jeep,Compass,Jeep Compass,2.0 Limited Plus 4X4 Diesel,SUV,Diesel,Manual,AWD (All Wheel Drive),1956,6,16.3,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,6,2343354
+726,Jeep,Compass,Jeep Compass,2.0 Sport Plus,SUV,Diesel,Manual,FWD (Front Wheel Drive),1956,6,17.1,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,1722786
+727,Jeep,Compass,Jeep Compass,1.4 Sport Plus,SUV,Petrol,Manual,FWD (Front Wheel Drive),1368,6,16.3,159.78,250,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,1621386
+728,Jeep,Compass,Jeep Compass,1.4 Longitude (O) At,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1368,6,14.1,160.77,250,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,1926600
+729,Jeep,Compass,Jeep Compass,1.4 Limited (O) At Petrol Black Pack,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1368,6,16.3,159.78,250,60.0,1640.0,4395.0,1818.0,5,5,2636.0,6,2098980
+730,Jeep,Compass,Jeep Compass,2.0 Limited (O) Black Pack,SUV,Diesel,Manual,FWD (Front Wheel Drive),1956,6,17.1,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,2064808
+731,Jeep,Compass,Jeep Compass,2.0 Limited (O) 4X4 Black Pack,SUV,Diesel,Manual,AWD (All Wheel Drive),1956,6,16.3,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,6,2244996
+732,Jeep,Compass,Jeep Compass,2.0 Limited Plus 4X4 At,SUV,Diesel,Automatic,AWD (All Wheel Drive),1956,6,17.1,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,6,2533986
+733,Jeep,Compass,Jeep Compass,2.0 Longitude 4X4 At,SUV,Diesel,Automatic,AWD (All Wheel Drive),1956,6,17.1,170.63,350,60.0,1640.0,4395.0,1818.0,5,5,2636.0,2,2226744
+734,Toyota,Corolla Altis,Toyota Corolla Altis,G Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1798,4,16.7,138.08,173,55.0,1475.0,4620.0,1775.0,4,5,2700.0,3,1668030
+735,Toyota,Corolla Altis,Toyota Corolla Altis,G At Petrol,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1798,4,16.7,138.08,173,55.0,1475.0,4620.0,1775.0,4,5,2700.0,3,1831284
+736,Toyota,Corolla Altis,Toyota Corolla Altis,Gl Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1798,4,16.7,138.08,173,55.0,1475.0,4620.0,1775.0,4,5,2700.0,7,1908348
+737,Toyota,Corolla Altis,Toyota Corolla Altis,Gl Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1364,4,21.0,86.8,205,43.0,1475.0,4620.0,1775.0,4,5,2700.0,3,1963104
+738,Toyota,Corolla Altis,Toyota Corolla Altis,G Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1364,4,21.0,86.8,205,43.0,1475.0,4620.0,1775.0,4,5,2700.0,3,1795794
+739,Toyota,Corolla Altis,Toyota Corolla Altis,Vl At Petrol,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1798,4,16.7,138.08,173,55.0,1475.0,4620.0,1775.0,4,5,2700.0,7,2047266
+740,Honda,Civic,Honda Civic,1.8 V Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1799,4,16.5,139.07,174,47.0,1433.0,4656.0,1799.0,4,5,2700.0,4,1819014
+741,Honda,Civic,Honda Civic,1.8 Vx Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1799,4,16.5,139.07,174,47.0,1433.0,4656.0,1799.0,4,5,2700.0,4,1972128
+742,Honda,Civic,Honda Civic,1.8 Zx Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1799,4,16.8,139.07,174,47.0,1433.0,4656.0,1799.0,4,5,2700.0,8,2154648
+743,Honda,Civic,Honda Civic,1.6 Vx Mt,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1597,4,26.8,118.36,300,47.0,1433.0,4656.0,1799.0,4,5,2700.0,4,2083668
+744,Honda,Civic,Honda Civic,1.6 Zx Mt,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1597,4,26.8,118.36,300,47.0,1433.0,4656.0,1799.0,4,5,2700.0,8,2266188
+752,Skoda,Superb,Skoda Superb,Style 1.8 Tsi Mt,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1798,4,14.12,177.54,320,66.0,1483.0,4861.0,1864.0,4,5,2841.0,8,2635993
+753,Skoda,Superb,Skoda Superb,Style 1.8 Tsi At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1798,4,14.67,177.54,250,66.0,1483.0,4861.0,1864.0,4,5,2841.0,8,2818513
+754,Skoda,Superb,Skoda Superb,L & K 1.8 Tsi At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1798,4,13.7,177.54,250,66.0,1483.0,4861.0,1864.0,4,5,2841.0,8,3142993
+755,Skoda,Superb,Skoda Superb,L & K 2.0 Tdi At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,18.19,174.58,350,66.0,1483.0,4861.0,1864.0,4,5,2841.0,8,3396493
+756,Skoda,Superb,Skoda Superb,Style 2.0 Tdi At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,18.19,174.58,350,66.0,1483.0,4861.0,1864.0,4,5,2841.0,8,3072013
+757,Skoda,Superb,Skoda Superb,Corporate Edition 1.8 Tsi At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1798,4,14.67,177.54,250,66.0,1483.0,4861.0,1864.0,4,5,2841.0,8,2635993
+758,Skoda,Superb,Skoda Superb,Corporate Edition 2.0 Tdi At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,18.19,174.58,350,66.0,1483.0,4861.0,1864.0,4,5,2841.0,8,2889493
+759,Volvo,V40,Volvo V40,Kinetic,Hatchback,Diesel,Automatic,FWD (Front Wheel Drive),1984,5,16.81,147.95,350,60.0,1420.0,4369.0,2041.0,5,5,2647.0,7,2807766
+760,Volvo,V40,Volvo V40,R Design,Hatchback,Diesel,Automatic,FWD (Front Wheel Drive),1984,5,16.81,147.95,350,60.0,1420.0,4369.0,2041.0,5,5,2647.0,7,3235674
+761,Toyota,Fortuner,Toyota Fortuner,2.8 4X2 At,SUV,Diesel,Automatic,RWD (Rear Wheel Drive),2755,4,12.9,174.58,450,80.0,1835.0,4795.0,1855.0,5,7,2745.0,7,3249870
+762,Toyota,Fortuner,Toyota Fortuner,2.8 4X2 Mt,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2755,4,14.24,174.58,420,80.0,1835.0,4795.0,1855.0,5,7,2745.0,7,3061266
+763,Toyota,Fortuner,Toyota Fortuner,2.8 4X4 Mt,SUV,Diesel,Manual,4WD,2755,4,14.24,174.58,420,80.0,1835.0,4795.0,1855.0,5,7,2745.0,7,3261024
+764,Toyota,Fortuner,Toyota Fortuner,2.8 4X4 At,SUV,Diesel,Automatic,4WD,2755,4,12.9,174.58,450,80.0,1835.0,4795.0,1855.0,5,7,2745.0,7,3442530
+765,Toyota,Fortuner,Toyota Fortuner,2.7 4X2 At,SUV,Petrol,Automatic,RWD (Rear Wheel Drive),2694,4,10.26,163.73,245,80.0,1835.0,4795.0,1855.0,5,7,2745.0,7,3018678
+766,Toyota,Fortuner,Toyota Fortuner,2.7 4X2 Mt,SUV,Petrol,Manual,RWD (Rear Wheel Drive),2694,4,10.01,163.73,245,80.0,1835.0,4795.0,1855.0,5,7,2745.0,7,2857452
+767,Toyota,Fortuner,Toyota Fortuner,Trd Celebratory Edition,SUV,Diesel,Automatic,RWD (Rear Wheel Drive),2755,4,12.9,174.58,450,80.0,1835.0,4795.0,1855.0,5,7,2745.0,7,3467880
+768,Ford,Endeavour,Ford Endeavour,3.2L 4X4 At Titanium Plus,SUV,Diesel,Automatic,AWD (All Wheel Drive),3198,5,10.91,197.26,470,80.0,1837.0,4903.0,1869.0,5,7,2850.0,7,3518580
+769,Ford,Endeavour,Ford Endeavour,2.2L 4X2 At Titanium Plus,SUV,Diesel,Automatic,RWD (Rear Wheel Drive),2198,4,12.62,157.81,385,80.0,1837.0,4903.0,1869.0,5,7,2850.0,7,3278262
+770,Ford,Endeavour,Ford Endeavour,2.2L 4X2 Mt Titanium,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2198,4,12.62,157.81,385,80.0,1837.0,4903.0,1869.0,5,7,2850.0,6,2960880
+773,Skoda,Kodiaq Scout,Skoda Kodiaq Scout,2.0 Tdi At,SUV,Diesel,Automatic,4WD,1968,4,16.25,145.98,340,63.0,1665.0,4697.0,1882.0,5,7,2791.0,9,3446586
+774,Bmw,X1,Bmw X1,Sdrive20D Expedition,"Crossover, SUV",Diesel,Automatic,AWD (All Wheel Drive),1995,4,20.68,187.4,400,51.0,1612.0,4439.0,2060.0,5,5,2670.0,6,3569280
+775,Bmw,X1,Bmw X1,Sdrive20D Xline,"SUV, Crossover",Diesel,Automatic,AWD (All Wheel Drive),1995,4,20.68,187.4,400,51.0,1612.0,4439.0,2058.0,5,5,2670.0,6,3985020
+776,Bmw,X1,Bmw X1,Xdrive20D M Sport,"SUV, Crossover",Diesel,Automatic,AWD (All Wheel Drive),1995,4,20.68,187.4,400,51.0,1612.0,4439.0,2058.0,5,5,2670.0,6,4633980
+777,Bmw,X1,Bmw X1,Sdrive20D M Sport,SUV,Diesel,Automatic,RWD (Rear Wheel Drive),1995,4,17.05,184.44,400,61.0,1545.0,4477.0,2058.0,5,5,2760.0,6,4299360
+778,Bmw,X1,Bmw X1,Sdrive20I Xline,"Crossover, SUV",Petrol,Automatic,AWD (All Wheel Drive),1998,4,16.3,189.37,280,51.0,1612.0,4439.0,1821.0,5,5,2670.0,6,3883620
+780,Volvo,S60,Volvo S60,Momentum,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1984,5,21.7,178.52,400,67.5,1484.0,4635.0,1865.0,4,5,2776.0,6,3904407
+781,Bmw,3-Series,Bmw 3-Series,320D Sport,Sedan,Diesel,Automatic,RWD (Rear Wheel Drive),1995,4,19.62,187.4,400,40.0,1429.0,4633.0,1811.0,5,5,2810.0,6,4197960
+782,Bmw,3-Series,Bmw 3-Series,320D Luxury Line,Sedan,Diesel,Automatic,RWD (Rear Wheel Drive),1995,4,19.62,187.4,400,40.0,1429.0,4633.0,1811.0,5,5,2810.0,6,4755660
+783,Bmw,3-Series,Bmw 3-Series,330I M Sport,Sedan,Petrol,Automatic,RWD (Rear Wheel Drive),1998,4,16.13,254.47,400,59.0,1429.0,4633.0,1811.0,5,5,2810.0,6,4857060
+784,Volvo,S60 Cross Country,Volvo S60 Cross Country,D4,"Sedan, Crossover",Diesel,Automatic,AWD (All Wheel Drive),2400,5,19.6,187.4,420,67.0,1539.0,4637.0,2097.0,4,4,2774.0,6,4488471
+785,Audi,Q5,Audi Q5,35 Tdi Premium Plus,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,16.9,187.4,400,64.0,1608.0,4388.0,1831.0,5,5,2603.0,8,5091496
+786,Audi,Q5,Audi Q5,35 Tdi Technology,SUV,Diesel,Automatic,AWD (All Wheel Drive),1968,4,15.73,187.4,400,64.0,1608.0,4388.0,1831.0,5,5,2603.0,8,5699896
+787,Audi,Q5,Audi Q5,45 Tfsi Premium Plus,SUV,Petrol,Automatic,AWD (All Wheel Drive),1984,6,12.44,244.61,370,70.0,1659.0,4663.0,1898.0,5,5,2807.0,8,5091496
+788,Audi,Q5,Audi Q5,45 Tfsi Technology,SUV,Petrol,Automatic,AWD (All Wheel Drive),1984,6,12.44,244.61,370,70.0,1659.0,4663.0,1898.0,5,5,2807.0,8,5699896
+801,Volvo,Xc60,Volvo Xc60,Inscription D5,SUV,Diesel,Automatic,AWD (All Wheel Drive),1969,5,18.8,229.81,480,70.0,1658.0,4688.0,1902.0,5,5,2865.0,8,6073860
+802,Bmw,X4,Bmw X4,Xdrive20D M Sport X,SUV,Diesel,Automatic,AWD (All Wheel Drive),1995,4,16.4,185.43,400,60.0,1621.0,4752.0,1918.0,5,5,2864.0,6,6144840
+803,Bmw,X4,Bmw X4,Xdrive30D M Sport X,SUV,Diesel,Automatic,AWD (All Wheel Drive),2993,6,16.4,261.37,620,68.0,1621.0,4752.0,1918.0,5,5,2864.0,6,6682260
+804,Bmw,X4,Bmw X4,Xdrive30I M Sport X,SUV,Petrol,Automatic,AWD (All Wheel Drive),1998,6,13.32,244.61,350,68.0,1621.0,4752.0,1918.0,5,5,2864.0,6,6438900
+805,Jeep,Wrangler,Jeep Wrangler,Unlimited,SUV,Petrol,Automatic,AWD (All Wheel Drive),1999,4,8.4,264.33,400,85.0,1838.0,4882.0,1877.0,5,5,3008.0,6,6483516
+807,Bmw,Z4 Roadster,Bmw Z4 Roadster,Sdrive 20I,"Sports, Convertible",Petrol,Automatic,RWD (Rear Wheel Drive),1998,4,7.6,194.31,320,52.0,1304.0,4324.0,2024.0,2,2,2470.0,4,6580860
+808,Bmw,Z4 Roadster,Bmw Z4 Roadster,M 40I,"Sports, Convertible",Petrol,Automatic,RWD (Rear Wheel Drive),2998,6,7.6,335.35,500,52.0,1304.0,4324.0,1459.0,2,2,2470.0,4,8000460
+812,Audi,Q7,Audi Q7,45 Tdi Premium Plus,SUV,Diesel,Automatic,AWD (All Wheel Drive),2967,6,14.75,245.59,600,75.0,1740.0,5052.0,1968.0,5,7,2994.0,8,7322601
+813,Audi,Q7,Audi Q7,45 Tdi Technology Pack,SUV,Diesel,Automatic,AWD (All Wheel Drive),2967,6,14.75,245.59,600,75.0,1740.0,5052.0,1968.0,5,7,2994.0,8,8133801
+814,Audi,Q7,Audi Q7,40 Tfsi Quattro Premium Plus,SUV,Petrol,Automatic,AWD (All Wheel Drive),1984,6,11.68,248.55,370,75.0,1740.0,5052.0,1968.0,5,7,2994.0,8,7018401
+816,Audi,Q7,Audi Q7,45 Tdi Black Styling,SUV,Diesel,Automatic,AWD (All Wheel Drive),2967,6,14.75,245.59,600,75.0,1740.0,5052.0,1968.0,5,7,2994.0,8,8225061
+820,Land Rover Rover,Range Velar,Land Rover Rover Range Velar,2.0 Petrol R-Dynamic S,SUV,Petrol,Automatic,4WD,1997,4,12.63,246.58,365,65.0,1665.0,4797.0,2145.0,5,5,2874.0,6,7348257
+822,Volvo,Xc90,Volvo Xc90,D5 Inscription,SUV,Diesel,Automatic,AWD (All Wheel Drive),1969,4,17.2,221.92,470,68.0,1776.0,4950.0,2140.0,5,7,2984.0,6,8913060
+823,Volvo,Xc90,Volvo Xc90,D5 Momentum,SUV,Diesel,Automatic,AWD (All Wheel Drive),1969,4,17.2,221.92,470,68.0,1776.0,4950.0,2140.0,5,7,2984.0,6,8203260
+825,Volvo,Xc90,Volvo Xc90,T8 Inscription,SUV,Hybrid,Automatic,AWD (All Wheel Drive),1969,4,17.2,315.62,240,68.0,1776.0,4950.0,2140.0,5,7,2984.0,7,9800310
+826,Volvo,Xc90,Volvo Xc90,D5 R-Design,SUV,Diesel,Automatic,AWD (All Wheel Drive),1969,4,17.2,231.79,480,68.0,1776.0,4950.0,2140.0,5,7,2984.0,6,8610381
+836,Land Rover Rover,Range Sport,Land Rover Rover Range Sport,4.4L Sdv8 Hse Diesel,SUV,Diesel,Automatic,4WD,4367,8,11.5,330.42,740,105.0,1803.0,4879.0,2220.0,5,7,2923.0,8,15117710
+837,Jaguar,Xj,Jaguar Xj,3.0L,Sedan,Diesel,Automatic,AWD (All Wheel Drive),2993,6,12.9,270.25,600,82.0,1457.0,5252.0,1899.0,4,5,3157.0,6,9874949
+838,Jaguar,Xj,Jaguar Xj,3.0L Portfolio,Sedan,Diesel,Automatic,AWD (All Wheel Drive),2993,6,12.9,270.25,600,83.0,1457.0,5252.0,1899.0,4,5,3157.0,6,10875297
+839,Jaguar,Xj,Jaguar Xj,50,Sedan,Diesel,Automatic,AWD (All Wheel Drive),2993,6,12.9,297.87,689,82.0,1460.0,5255.0,1899.0,4,5,3157.0,6,11285413
+840,Porsche,Cayenne,Porsche Cayenne,E-Hybrid,SUV,Hybrid,Automatic,AWD (All Wheel Drive),2995,6,3.4,335.35,450,75.0,1696.0,4918.0,1983.0,5,5,2895.0,10,16027284
+841,Porsche,Cayenne,Porsche Cayenne,Turbo,SUV,Petrol,Automatic,AWD (All Wheel Drive),3996,6,16.2,542.48,770,90.0,1673.0,4926.0,1983.0,5,5,2895.0,10,19478940
+846,Toyota,Land Cruiser,Toyota Land Cruiser,Vx,SUV,Diesel,Automatic,AWD (All Wheel Drive),4461,8,9.0,261.37,650,93.0,1910.0,4950.0,1980.0,5,7,2850.0,8,14904786
+847,Audi,Rs7,Audi Rs7,Sportback,"Sedan, Coupe",Petrol,Automatic,AWD (All Wheel Drive),3993,8,9.8,552.34,700,75.0,1419.0,5012.0,1911.0,4,4,2915.0,8,17311008
+848,Land Rover Rover,Range,Land Rover Rover Range,5.0L V8 Autobiography Petrol,SUV,Petrol,Automatic,4WD,4999,8,9.6,510.91,625,105.0,1877.0,4999.0,2034.0,5,7,2922.0,10,26402051
+849,Land Rover Rover,Range,Land Rover Rover Range,5.0L V8 Svautobiography Dynamic Petrol,SUV,Petrol,Automatic,4WD,4999,8,9.6,550.37,700,105.0,1827.0,4999.0,2220.0,5,5,2922.0,8,32977308
+850,Land Rover Rover,Range,Land Rover Rover Range,3.0L V6 Vogue Lwb Petrol,SUV,Petrol,Automatic,4WD,2995,6,11.6,330.42,450,85.0,1840.0,5199.0,2220.0,5,7,3120.0,8,19800509
+851,Land Rover Rover,Range,Land Rover Rover Range,5.0L V8 Svautobiography Lwb Petrol,SUV,Petrol,Automatic,4WD,4999,8,10.0,550.37,700,65.0,1835.0,4999.0,2220.0,4,5,2922.0,8,41066541
+857,Land Rover Rover,Range,Land Rover Rover Range,3.0L V6 Vogue Se Lwb Petrol,SUV,Petrol,Automatic,4WD,2995,6,11.6,330.42,450,85.0,1840.0,5199.0,2220.0,5,7,3120.0,8,21698340
+858,Maserati,Grancabrio,Maserati Grancabrio,Standard,Convertible,Petrol,Automatic,RWD (Rear Wheel Drive),4691,8,9.8,443.84,510,75.0,1353.0,4881.0,2056.0,2,4,2942.0,4,20143794
+863,Lamborghini,Huracan,Lamborghini Huracan,Lp 610-4,Coupe,Petrol,Automatic,AWD (All Wheel Drive),5204,10,10.6,601.66,560,90.0,1165.0,4459.0,1924.0,2,2,2620.0,4,37653575
+864,Lamborghini,Huracan,Lamborghini Huracan,Lp 580-2,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),5204,10,11.24,572.07,540,90.0,1165.0,4459.0,1924.0,2,2,2620.0,4,32906820
+865,Lamborghini,Huracan,Lamborghini Huracan,Avio,Coupe,Petrol,Automatic,AWD (All Wheel Drive),5204,10,8.0,601.66,560,90.0,1165.0,4459.0,1924.0,2,2,2620.0,4,35642842
+866,Lamborghini,Huracan,Lamborghini Huracan,Performante,Coupe,Petrol,Automatic,AWD (All Wheel Drive),5204,10,10.6,630.26,600,90.0,1165.0,4459.0,1924.0,2,2,2620.0,4,38140723
+867,Lamborghini,Huracan,Lamborghini Huracan,Lp 580-2 Spyder,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),5204,10,11.24,563.19,540,90.0,1165.0,4459.0,1924.0,2,2,2620.0,4,36032490
+868,Lamborghini,Huracan,Lamborghini Huracan,Lp 610-4 Spyder,Coupe,Petrol,Automatic,AWD (All Wheel Drive),5204,10,10.6,593.76,560,90.0,1165.0,4459.0,1924.0,2,2,2620.0,4,41313333
+869,Lamborghini,Huracan,Lamborghini Huracan,Evo,Coupe,Petrol,Automatic,AWD (All Wheel Drive),5204,10,10.6,622.37,600,90.0,1165.0,4459.0,1924.0,2,2,2620.0,4,37822200
+871,Lamborghini,Huracan,Lamborghini Huracan,Evo Rwd,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),5204,10,10.6,601.66,560,90.0,1165.0,4520.0,1933.0,2,2,2620.0,4,32650800
+872,Ferrari,488 Gtb,Ferrari 488 Gtb,Std,Coupe,Petrol,Automatic,AWD (All Wheel Drive),3902,8,5.5,660.83,760,78.0,1213.0,4568.0,1952.0,2,2,2650.0,4,37276072
+873,Ferrari,488 Gtb,Ferrari 488 Gtb,Spider,Coupe,Petrol,Automatic,AWD (All Wheel Drive),3902,8,5.5,660.83,760,78.0,1213.0,4568.0,1952.0,2,2,2650.0,4,39870025
+874,Ferrari,Gtc4 Lusso,Ferrari Gtc4 Lusso,V8 T,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),3900,8,5.5,601.66,760,91.0,1383.0,4922.0,1980.0,2,4,2990.0,4,42588000
+875,Ferrari,Gtc4 Lusso,Ferrari Gtc4 Lusso,V12,Coupe,Petrol,Automatic,AWD (All Wheel Drive),6262,8,5.5,671.68,697,91.0,1383.0,4922.0,1980.0,2,4,2990.0,4,52728000
+876,Lamborghini,Aventador,Lamborghini Aventador,Lp 700-4,Convertible,Petrol,Automatic,4WD,6498,12,5.0,690.42,690,90.0,1136.0,4780.0,2030.0,2,2,2700.0,6,48564458
+877,Lamborghini,Aventador,Lamborghini Aventador,Lp700-4 Roadster,Convertible,Petrol,Automatic,4WD,6498,12,8.8,690.42,690,90.0,1136.0,4780.0,2030.0,2,2,2700.0,6,53955271
+878,Lamborghini,Aventador,Lamborghini Aventador,S,Coupe,Petrol,Automatic,4WD,6498,12,5.0,729.88,690,90.0,1136.0,4797.0,2030.0,2,2,2700.0,6,48132247
+881,Maruti Suzuki,Omni,Maruti Suzuki Omni,5 Str Bs-Iv,MPV,Petrol,Manual,RWD (Rear Wheel Drive),796,3,16.8,33.53,59,35.0,1640.0,3370.0,1410.0,5,5,1840.0,0,286736
+882,Maruti Suzuki,Omni,Maruti Suzuki Omni,E 8 Str Bs-Iv,MPV,Petrol,Manual,RWD (Rear Wheel Drive),796,3,16.8,33.53,59,36.0,1640.0,3370.0,1410.0,5,8,1840.0,0,288467
+892,Fiat,Punto Evo Pure,Fiat Punto Evo Pure,1.2L Fire Dynamic,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1172,4,15.0,67.07,96,45.0,1525.0,3987.0,1687.0,5,5,2510.0,0,489082
+893,Fiat,Punto Evo Pure,Fiat Punto Evo Pure,1.3,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.0,73.97,197,45.0,1525.0,3989.0,1687.0,5,5,2510.0,1,584010
+894,Ford,Figo,Ford Figo,Ambiente 1.2 Ti-Vct,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1194,4,20.4,94.69,120,42.0,1525.0,3941.0,1704.0,5,5,2490.0,2,530322
+895,Ford,Figo,Ford Figo,Ambiente 1.5 Tdci,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,25.5,98.63,215,40.0,1525.0,3941.0,1704.0,5,5,2490.0,2,631722
+896,Ford,Figo,Ford Figo,Titanium 1.2 Ti-Vct,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1196,4,20.4,94.69,120,42.0,1525.0,3941.0,1704.0,5,5,2490.0,2,608298
+897,Ford,Figo,Ford Figo,Titanium1.5 Tdci,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,25.5,98.63,215,40.0,1525.0,3941.0,1704.0,5,5,2490.0,2,709698
+898,Ford,Figo,Ford Figo,Titanium Blu 1.2 Ti-Vct,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1194,4,20.4,94.69,120,42.0,1525.0,3941.0,1704.0,5,5,2490.0,6,674208
+899,Ford,Figo,Ford Figo,Titanium Blu 1.5 Tdci,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1498,4,25.5,98.63,215,40.0,1525.0,3941.0,1704.0,5,5,2490.0,6,775608
+900,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.3 Delta,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,27.39,73.97,190,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,757073
+901,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.3 Alpha,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,27.39,73.97,190,37.0,1500.0,3995.0,1745.0,5,5,2520.0,2,880376
+902,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.3 Sigma,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,27.39,73.97,190,37.0,1500.0,3995.0,1745.0,5,5,2520.0,2,677971
+903,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.3 Zeta,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,27.39,73.97,190,37.0,1500.0,3995.0,1745.0,5,5,2520.0,2,819231
+904,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.2 Alpha,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,21.4,81.86,115,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,768826
+905,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.2 Alpha Cvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,21.4,81.86,115,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,902674
+906,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.2 Delta,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,21.4,81.86,115,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,645524
+907,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.2 Delta Cvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,21.04,81.86,115,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,779372
+908,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.2 Sigma,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,21.4,81.86,115,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,566422
+909,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.2 Zeta,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,21.4,81.86,115,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,707682
+910,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.2 Delta Dualjet,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,21.4,81.86,115,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,743679
+911,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.2 Zeta Dualjet,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,21.4,81.86,115,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,800970
+912,Maruti Suzuki,Baleno,Maruti Suzuki Baleno,1.2 Zeta Cvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,21.04,81.86,115,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,841530
+913,Hyundai,Grand I10,Hyundai Grand I10,1.2 Kappa Vtvt Magna,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,18.9,81.86,114,43.0,1520.0,3765.0,1660.0,5,5,2425.0,2,594637
+914,Hyundai,Grand I10,Hyundai Grand I10,1.2 Kappa Vtvt Sportz,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,19.77,81.86,114,43.0,1520.0,3765.0,1660.0,5,5,2425.0,2,629325
+915,Hyundai,Grand I10,Hyundai Grand I10,1.2 Kappa Vtvt Magna At,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,17.49,81.86,114,43.0,1520.0,3765.0,1660.0,5,5,2425.0,2,661460
+916,Hyundai,Grand I10,Hyundai Grand I10,1.2 Kappa Vtvt Sportz At,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,17.49,81.86,114,43.0,1520.0,3765.0,1660.0,5,5,2425.0,2,715415
+917,Hyundai,Grand I10,Hyundai Grand I10,1.2 Kappa Vtvt Sportz Dual Tone,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,19.77,81.86,114,43.0,1520.0,3765.0,1660.0,5,5,2425.0,2,649504
+919,Fiat,Linea Classic,Fiat Linea Classic,1.3 Multijet,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,19.5,74.96,197,45.0,1487.0,4560.0,1730.0,4,5,2603.0,0,761719
+920,Fiat,Linea Classic,Fiat Linea Classic,1.4,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1368,4,14.9,88.77,115,45.0,1487.0,4560.0,1730.0,4,5,2603.0,0,655384
+921,Fiat,Linea Classic,Fiat Linea Classic,Plus 1.3 Multijet,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,19.5,74.96,197,45.0,1487.0,4560.0,1730.0,4,5,2603.0,0,819877
+922,Nissan,Sunny,Nissan Sunny,Xe Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1498,4,16.95,97.65,134,41.0,1515.0,4455.0,1695.0,4,5,2600.0,1,716923
+923,Nissan,Sunny,Nissan Sunny,Xl Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1498,4,16.95,97.65,134,41.0,1515.0,4455.0,1695.0,4,5,2600.0,1,848171
+924,Nissan,Sunny,Nissan Sunny,Xl Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1461,4,22.71,84.82,200,41.0,1515.0,4455.0,1695.0,4,5,2600.0,1,925309
+925,Nissan,Sunny,Nissan Sunny,Xv Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1461,4,22.71,84.82,200,41.0,1515.0,4455.0,1695.0,4,5,2600.0,2,1007912
+926,Nissan,Sunny,Nissan Sunny,Xe Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1461,4,22.71,84.82,200,41.0,1515.0,4455.0,1695.0,4,5,2600.0,1,873050
+927,Nissan,Sunny,Nissan Sunny,Xv Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1498,4,17.97,99.62,134,41.0,1515.0,4455.0,1695.0,4,5,2600.0,2,1007912
+928,Nissan,Sunny,Nissan Sunny,Special Edition Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1461,4,22.71,84.82,200,41.0,1515.0,4455.0,1695.0,4,5,2600.0,2,889566
+929,Maruti Suzuki,Ertiga,Maruti Suzuki Ertiga,Lxi,MPV,Petrol,Manual,FWD (Front Wheel Drive),1462,4,19.34,101.59,138,45.0,1690.0,4395.0,1735.0,5,7,2740.0,2,769626
+930,Maruti Suzuki,Ertiga,Maruti Suzuki Ertiga,Zxi,MPV,Petrol,Manual,FWD (Front Wheel Drive),1462,4,19.34,102.58,138,45.0,1685.0,4265.0,1695.0,5,7,2740.0,2,929838
+931,Maruti Suzuki,Ertiga,Maruti Suzuki Ertiga,Vxi At,MUV,Petrol,Automatic,FWD (Front Wheel Drive),1462,4,18.69,101.59,130,45.0,1690.0,4395.0,1735.0,5,7,2740.0,2,949104
+932,Maruti Suzuki,Ertiga,Maruti Suzuki Ertiga,Zxi Plus,MUV,Petrol,Manual,FWD (Front Wheel Drive),1462,4,19.34,101.59,130,45.0,1690.0,4395.0,1735.0,5,7,2740.0,2,984594
+933,Maruti Suzuki,Ertiga,Maruti Suzuki Ertiga,Vxi,MUV,Petrol,Manual,FWD (Front Wheel Drive),1462,4,19.34,101.59,180,45.0,1685.0,4265.0,1695.0,5,7,2740.0,2,845676
+934,Maruti Suzuki,Ertiga,Maruti Suzuki Ertiga,Zxi At,MPV,Petrol,Automatic,FWD (Front Wheel Drive),1462,4,18.69,102.58,138,45.0,1685.0,4265.0,1695.0,5,7,2740.0,2,1027182
+935,Maruti Suzuki,Ertiga,Maruti Suzuki Ertiga,1.5L Vdi,MPV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,24.2,93.7,225,45.0,1690.0,4395.0,1735.0,5,7,2740.0,2,1000502
+936,Maruti Suzuki,Ertiga,Maruti Suzuki Ertiga,1.5L Zdi,MPV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,24.2,93.7,225,45.0,1690.0,4395.0,1735.0,5,7,2740.0,2,1084664
+937,Maruti Suzuki,Ertiga,Maruti Suzuki Ertiga,1.5L Zdi Plus,MPV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,24.2,93.7,225,45.0,1690.0,4395.0,1735.0,5,7,2740.0,2,1136378
+938,Maruti Suzuki,Ertiga,Maruti Suzuki Ertiga,Vxi Cng (Cng +,MUV,CNG + Petrol,Manual,FWD (Front Wheel Drive),1462,4,19.34,101.59,180,45.0,1685.0,4265.0,1695.0,5,7,2740.0,2,900116
+939,Maruti Suzuki,Baleno Rs,Maruti Suzuki Baleno Rs,Rs 1.0,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),998,3,21.4,100.6,150,37.0,1510.0,3995.0,1745.0,5,5,2520.0,2,799957
+941,Honda,Wr-V,Honda Wr-V,Vx Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1199,4,17.5,88.77,110,40.0,1601.0,3999.0,1734.0,5,5,2555.0,2,937950
+942,Honda,Wr-V,Honda Wr-V,S Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,25.5,98.63,200,40.0,1601.0,3999.0,1734.0,5,5,2555.0,2,937950
+943,Honda,Wr-V,Honda Wr-V,S Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1199,4,17.5,88.77,110,40.0,1601.0,3999.0,1734.0,5,5,2555.0,2,826410
+944,Honda,Wr-V,Honda Wr-V,Edge Plus Edition Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1498,4,25.5,98.63,200,40.0,1601.0,3999.0,1734.0,5,5,2555.0,2,928874
+945,Honda,Wr-V,Honda Wr-V,Edge Plus Edition Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1199,4,17.5,88.77,110,40.0,1601.0,3999.0,1734.0,5,5,2555.0,2,819362
+947,Honda,Wr-V,Honda Wr-V,Exclusive Edition Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1199,4,17.5,88.77,110,40.0,1601.0,3999.0,1734.0,5,5,2555.0,2,948140
+949,Mahindra,Tuv300,Mahindra Tuv300,T4 Plus,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1493,3,18.49,82.85,240,60.0,1817.0,3995.0,1835.0,5,7,2680.0,2,866288
+950,Mahindra,Tuv300,Mahindra Tuv300,T6 Plus,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1493,3,18.49,82.85,240,60.0,1817.0,3995.0,1835.0,5,7,2680.0,2,927128
+951,Mahindra,Tuv300,Mahindra Tuv300,T8,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1493,3,18.49,82.85,240,60.0,1817.0,3995.0,1835.0,5,7,2680.0,2,990264
+952,Mahindra,Tuv300,Mahindra Tuv300,T10,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1493,3,18.49,98.63,240,60.0,1839.0,3995.0,1835.0,5,7,2680.0,2,1013608
+953,Mahindra,Tuv300,Mahindra Tuv300,T10 (O),SUV,Diesel,Manual,RWD (Rear Wheel Drive),1493,3,18.49,98.63,240,60.0,1839.0,3995.0,1835.0,5,7,2680.0,2,1046390
+954,Mahindra,Tuv300,Mahindra Tuv300,T10 Dual Tone,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1493,3,18.49,98.63,240,60.0,1839.0,3995.0,1835.0,5,7,2680.0,2,1037251
+955,Mahindra,Tuv300,Mahindra Tuv300,T10 (O) Dual Tone,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1493,3,18.49,98.63,240,60.0,1839.0,3995.0,1835.0,5,7,2680.0,2,1070032
+956,Maruti Suzuki,S-Cross,Maruti Suzuki S-Cross,1.3L Sigma,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1248,4,23.65,88.77,200,48.0,1595.0,4300.0,1785.0,5,5,2600.0,2,893018
+957,Maruti Suzuki,S-Cross,Maruti Suzuki S-Cross,1.3L Delta,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1248,4,23.65,88.77,200,48.0,1595.0,4300.0,1785.0,5,5,2600.0,2,1006586
+958,Maruti Suzuki,S-Cross,Maruti Suzuki S-Cross,1.3L Zeta,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1248,4,23.65,88.77,200,48.0,1595.0,4300.0,1785.0,5,5,2600.0,2,1058300
+959,Maruti Suzuki,S-Cross,Maruti Suzuki S-Cross,1.3L Alpha,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1248,4,23.65,88.77,200,48.0,1595.0,4300.0,1785.0,5,5,2600.0,2,1159700
+960,Renault,Captur,Renault Captur,Rxe Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1498,4,13.86,104.55,142,50.0,1619.0,4329.0,1813.0,5,5,2673.0,2,963298
+961,Renault,Captur,Renault Captur,Rxe Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,20.37,108.5,240,50.0,1619.0,4329.0,1813.0,5,5,2673.0,2,1064698
+962,Renault,Captur,Renault Captur,Platine Diesel Dual Tone,SUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,20.37,108.5,240,50.0,1619.0,4329.0,1813.0,5,5,2673.0,4,1318198
+963,Renault,Captur,Renault Captur,Platine Petrol Dual Tone,SUV,Petrol,Manual,FWD (Front Wheel Drive),1498,4,13.86,104.55,142,50.0,1619.0,4329.0,1813.0,5,5,2673.0,2,1216798
+964,Mahindra,Xylo,Mahindra Xylo,D2 Bs-Iv,SUV,Diesel,Manual,FWD (Front Wheel Drive),2489,4,13.9,93.7,218,55.0,1895.0,4520.0,1850.0,5,7,2760.0,0,976519
+965,Mahindra,Xylo,Mahindra Xylo,D4 Bs-Iv,SUV,Diesel,Manual,FWD (Front Wheel Drive),2489,4,13.9,93.7,218,55.0,1895.0,4520.0,1850.0,5,7,2760.0,0,1018549
+966,Mahindra,Xylo,Mahindra Xylo,H4 Bs-Iv,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,14.02,118.36,280,55.0,1895.0,4520.0,1850.0,5,7,2760.0,0,1046398
+967,Mahindra,Xylo,Mahindra Xylo,H4 Abs Bs-Iv,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,14.02,118.36,280,55.0,1895.0,4520.0,1850.0,5,7,2760.0,0,1081064
+968,Mahindra,Xylo,Mahindra Xylo,H8 Abs Airbags Bs-Iv,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,14.02,119.34,280,55.0,1895.0,4520.0,1850.0,5,8,2760.0,2,1245531
+969,Kia,Seltos,Kia Seltos,Hte 1.5,SUV,Petrol,Manual,FWD (Front Wheel Drive),1497,4,16.8,113.43,144,60.0,1645.0,4315.0,1800.0,5,5,2610.0,2,1002846
+980,Kia,Seltos,Kia Seltos,Gtk 1.4,SUV,Petrol,Manual,FWD (Front Wheel Drive),1353,4,16.1,138.08,242,50.0,1645.0,4315.0,1800.0,5,5,2610.0,2,1398306
+981,Kia,Seltos,Kia Seltos,Gtx 1.4,SUV,Petrol,Manual,FWD (Front Wheel Drive),1353,4,16.1,138.08,242,50.0,1645.0,4315.0,1800.0,5,5,2610.0,4,1550406
+982,Kia,Seltos,Kia Seltos,Gtx At 1.4,SUV,Petrol,DCT,FWD (Front Wheel Drive),1353,4,16.5,138.08,242,50.0,1645.0,4315.0,1800.0,5,5,2610.0,4,1651806
+983,Kia,Seltos,Kia Seltos,Gtx Plus 1.4,SUV,Petrol,Manual,FWD (Front Wheel Drive),1353,4,16.1,138.08,242,50.0,1645.0,4315.0,1800.0,5,5,2610.0,4,1651806
+985,Nissan,Terrano,Nissan Terrano,Xe D 85Ps,SUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,20.45,83.84,200,50.0,1671.0,4331.0,1822.0,5,5,2673.0,2,1013898
+986,Nissan,Terrano,Nissan Terrano,Xv D Premium 110 Ps Amt,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1461,4,19.01,108.5,248,50.0,1671.0,4331.0,1822.0,5,5,2673.0,2,1485408
+987,Nissan,Terrano,Nissan Terrano,Xl (P),SUV,Petrol,Manual,FWD (Front Wheel Drive),1598,4,13.24,102.58,145,50.0,1671.0,4331.0,1822.0,5,5,2673.0,2,1013898
+988,Nissan,Terrano,Nissan Terrano,Xl D(O),SUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,20.45,83.84,200,50.0,1671.0,4331.0,1822.0,5,5,2673.0,2,1252999
+989,Nissan,Terrano,Nissan Terrano,Xv D Premium 110 Ps,SUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,19.01,108.5,248,50.0,1671.0,4331.0,1822.0,5,5,2673.0,2,1439778
+990,Nissan,Terrano,Nissan Terrano,Sport Edition,SUV,Diesel,Manual,FWD (Front Wheel Drive),1461,4,20.45,83.84,200,50.0,1671.0,4331.0,1822.0,5,5,2673.0,2,1252999
+991,Tata,Safari Storme,Tata Safari Storme,2.2 Lx 4X2,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,14.0,147.95,320,63.0,1922.0,4655.0,1855.0,5,7,2650.0,0,1124531
+992,Tata,Safari Storme,Tata Safari Storme,2.2 Ex 4X2,SUV,Diesel,Manual,FWD (Front Wheel Drive),2179,4,14.0,147.95,320,63.0,1922.0,4655.0,1965.0,5,7,2650.0,0,1353850
+993,Tata,Safari Storme,Tata Safari Storme,2.2 Vx 4X2 Varicor 400,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2179,4,14.1,153.87,400,63.0,1922.0,4655.0,1965.0,5,7,2650.0,2,1500288
+994,Tata,Safari Storme,Tata Safari Storme,2.2 Vx 4X4 Varicor 400,SUV,Diesel,Manual,AWD (All Wheel Drive),2179,4,14.1,153.87,400,63.0,1922.0,4655.0,1965.0,5,7,2650.0,2,1666842
+1009,Hyundai,Elantra,Hyundai Elantra,S,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1999,4,14.6,149.92,196,50.0,1465.0,4620.0,1800.0,4,5,2700.0,6,1611246
+1010,Hyundai,Elantra,Hyundai Elantra,Sx,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1999,4,14.6,149.92,196,50.0,1465.0,4620.0,1800.0,4,5,2700.0,6,1874886
+1011,Hyundai,Elantra,Hyundai Elantra,Sx At,Sedan,Petrol,AMT,FWD (Front Wheel Drive),1999,4,14.6,149.92,196,50.0,1465.0,4620.0,1800.0,4,5,2700.0,6,1976286
+1012,Hyundai,Elantra,Hyundai Elantra,Sx(O) At,Sedan,Petrol,AMT,FWD (Front Wheel Drive),1999,4,14.6,149.92,196,50.0,1465.0,4620.0,1800.0,4,5,2700.0,6,2067546
+1013,Hyundai,Tucson,Hyundai Tucson,2Wd Mt Diesel,SUV,Diesel,Manual,4WD,1995,4,18.42,182.47,400,62.0,1660.0,4475.0,1850.0,5,5,2670.0,2,2108833
+1014,Hyundai,Tucson,Hyundai Tucson,2Wd Mt Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1999,4,13.03,152.88,192,62.0,1660.0,4475.0,1850.0,5,5,2670.0,2,1902929
+1015,Hyundai,Tucson,Hyundai Tucson,2Wd At Gl Diesel,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1995,4,16.38,182.47,400,62.0,1660.0,4475.0,1850.0,5,5,2670.0,6,2397454
+1016,Hyundai,Tucson,Hyundai Tucson,2Wd At Gl Petrol,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1999,4,12.95,152.88,192,62.0,1660.0,4475.0,1850.0,5,5,2670.0,6,2218007
+1017,Hyundai,Tucson,Hyundai Tucson,4Wd At Gls Diesel,SUV,Diesel,Automatic,4WD,1995,4,16.38,182.47,400,62.0,1660.0,4475.0,1850.0,5,5,2670.0,6,2735180
+1018,Hyundai,Tucson,Hyundai Tucson,2Wd At Gls Petrol,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1999,4,12.95,152.88,192,62.0,1660.0,4475.0,1850.0,5,5,2670.0,6,2406751
+1019,Hyundai,Tucson,Hyundai Tucson,2Wd At Gl(O) Petrol,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1999,4,12.95,152.88,192,62.0,1660.0,4475.0,1850.0,5,5,2670.0,6,2278203
+1020,Hyundai,Tucson,Hyundai Tucson,2Wd At Gl(O) Diesel,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1995,4,16.38,182.47,400,62.0,1660.0,4475.0,1850.0,5,5,2670.0,6,2457652
+1021,Volkswagen,Passat,Volkswagen Passat,2.0 Tdi Comfortline,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,17.42,177.54,350,55.0,1456.0,4767.0,1832.0,4,5,2786.0,9,3063801
+1022,Volkswagen,Passat,Volkswagen Passat,2.0 Tdi Highline,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,17.42,177.54,350,66.0,1456.0,4767.0,1832.0,4,5,2786.0,9,3368001
+1023,Volkswagen,Passat,Volkswagen Passat,2.0 Tdi Comfortline Connect,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,17.42,177.54,350,55.0,1456.0,4767.0,1832.0,4,5,2786.0,9,2635386
+1024,Volkswagen,Passat,Volkswagen Passat,2.0 Tdi Highline Connect,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,17.42,177.54,350,66.0,1456.0,4767.0,1832.0,4,5,2786.0,9,2939586
+1027,Volvo,V40 Cross Country,Volvo V40 Cross Country,D3,Hatchback,Diesel,Automatic,FWD (Front Wheel Drive),1984,5,16.8,147.95,350,60.0,1458.0,4370.0,1783.0,5,5,2646.0,7,3328962
+1028,Volvo,V40 Cross Country,Volvo V40 Cross Country,T4,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1596,4,16.0,177.54,240,50.0,1470.0,4370.0,1857.0,5,5,2646.0,7,3003468
+1029,Mini,Countryman,Mini Countryman,Cooper S,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1998,4,14.41,189.37,280,47.0,1557.0,4299.0,1822.0,5,5,2670.0,6,3538860
+1030,Mini,Countryman,Mini Countryman,Cooper Sd,Hatchback,Diesel,Automatic,FWD (Front Wheel Drive),1998,4,19.19,187.4,400,47.0,1557.0,4299.0,1822.0,5,5,2670.0,6,3792360
+1031,Mini,Countryman,Mini Countryman,Cooper S Jcw Inspired,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1998,4,14.41,189.37,280,47.0,1557.0,4299.0,1822.0,5,5,2670.0,6,4197960
+1032,Mini,Countryman,Mini Countryman,Black Edition,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1998,4,14.41,189.37,280,47.0,1557.0,4299.0,1822.0,5,5,2670.0,6,4299360
+1039,Toyota,Prius,Toyota Prius,Z8,Sedan,Hybrid,Automatic,FWD (Front Wheel Drive),1798,4,23.9,96.66,142,43.0,1490.0,4540.0,1760.0,4,5,2700.0,7,4572126
+1041,Lexus,Nx 300H,Lexus Nx 300H,F-Sport,SUV,Petrol,Automatic,AWD (All Wheel Drive),2494,6,18.3,191.35,210,56.0,1645.0,4.64,1.845,4,5,2660.0,8,6144840
+1042,Lexus,Nx 300H,Lexus Nx 300H,Luxury,SUV,Petrol,Automatic,AWD (All Wheel Drive),2494,6,18.3,191.35,210,56.0,1645.0,4640.0,1845.0,4,5,2660.0,8,6073860
+1043,Jaguar,F-Pace,Jaguar F-Pace,Prestige,SUV,Diesel,Automatic,AWD (All Wheel Drive),1999,4,16.38,177.54,430,60.0,1651.0,4731.0,2175.0,5,5,2874.0,6,6554272
+1044,Jaguar,F-Pace,Jaguar F-Pace,Prestige Petrol,SUV,Petrol,Automatic,AWD (All Wheel Drive),1997,4,21.27,243.62,369,60.0,1651.0,4731.0,2175.0,5,5,2874.0,6,6512728
+1045,Volvo,V90 Cross Country,Volvo V90 Cross Country,D5 Inscription,SUV,Diesel,Automatic,AWD (All Wheel Drive),1969,4,17.2,231.79,480,60.0,1543.0,4950.0,2052.0,5,5,2941.0,6,6622434
+1050,Bmw,X7,Bmw X7,Xdrive 40I,SUV,Petrol,Automatic,AWD (All Wheel Drive),2998,6,13.38,330.42,450,80.0,1805.0,5151.0,2000.0,5,7,3105.0,9,10636860
+1051,Bmw,X7,Bmw X7,Xdrive30D Dpe Signature,SUV,Diesel,Automatic,AWD (All Wheel Drive),2993,6,13.38,258.42,620,80.0,1805.0,5151.0,2000.0,5,7,3105.0,9,10393500
+1052,Bmw,M4,Bmw M4,Coupe,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),2979,6,10.75,425.1,550,60.0,1383.0,4671.0,1870.0,2,4,2812.0,10,13780260
+1053,Porsche,911,Porsche 911,Carrera S,Coupe,Petrol,Automatic,AWD (All Wheel Drive),2981,6,8.9,443.84,530,64.0,1300.0,4519.0,1852.0,2,4,2450.0,4,17663880
+1054,Porsche,911,Porsche 911,Carrera S Cabriolet,Convertible,Petrol,Automatic,AWD (All Wheel Drive),2981,6,9.1,443.84,530,64.0,1299.0,4519.0,1852.0,2,4,2450.0,4,19107816
+1055,Nissan,Gtr,Nissan Gtr,3.8 V6,Coupe,Petrol,Automatic,AWD (All Wheel Drive),3799,6,9.0,562.2,637,74.0,1370.0,4710.0,1895.0,2,4,2780.0,6,21537635
+1056,Aston Martin,Vantage,Aston Martin Vantage,Coupe,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),3982,8,8.0,498.09,685,73.0,1273.0,4465.0,2153.0,2,2,2704.0,6,29913000
+1057,Aston Martin,Rapide,Aston Martin Rapide,Luxe,Sedan,Petrol,Automatic,RWD (Rear Wheel Drive),5935,12,12.9,552.34,630,90.5,1360.0,5019.0,1929.0,4,4,2989.0,8,39389664
+1058,Ferrari,812 Superfast,Ferrari 812 Superfast,Superfast,Coupe,Petrol,Automatic,AWD (All Wheel Drive),6496,12,14.9,778.21,718,92.0,1276.0,4657.0,1971.0,2,2,2720.0,4,52728000
+1059,Maruti Suzuki,Alto 800 Tour,Maruti Suzuki Alto 800 Tour,H1,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),796,3,23.7,47.34,69,35.0,1475.0,3430.0,1490.0,5,5,2360.0,0,359194
+1060,Maruti Suzuki,Alto 800 Tour,Maruti Suzuki Alto 800 Tour,H1 (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),796,3,24.7,47.34,69,35.0,1475.0,3395.0,1490.0,5,5,2360.0,1,361550
+1061,Hyundai,Grand I10 Nios,Hyundai Grand I10 Nios,Magna 1.2 Crdi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1186,3,20.7,73.97,190,37.0,1520.0,3805.0,1680.0,5,5,2450.0,2,684541
+1062,Hyundai,Grand I10 Nios,Hyundai Grand I10 Nios,Era 1.2 Vtvt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.7,81.86,114,37.0,1520.0,3805.0,1680.0,5,5,2450.0,2,512059
+1063,Hyundai,Grand I10 Nios,Hyundai Grand I10 Nios,Magna 1.2 Vtvt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.7,81.86,114,37.0,1520.0,3805.0,1680.0,5,5,2450.0,2,597864
+1064,Hyundai,Grand I10 Nios,Hyundai Grand I10 Nios,Magna Amt 1.2 Vtvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,20.7,81.86,114,37.0,1520.0,3805.0,1680.0,5,5,2450.0,2,651606
+1065,Hyundai,Grand I10 Nios,Hyundai Grand I10 Nios,Sportz 1.2 Vtvt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.7,81.86,114,37.0,1520.0,3805.0,1680.0,5,5,2450.0,2,652356
+1066,Hyundai,Grand I10 Nios,Hyundai Grand I10 Nios,Sportz Amt 1.2 Vtvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,20.7,81.86,114,37.0,1520.0,3805.0,1680.0,5,5,2450.0,2,713196
+1067,Hyundai,Grand I10 Nios,Hyundai Grand I10 Nios,Sportz Dual Tone 1.2 Vtvt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.7,81.86,114,37.0,1520.0,3805.0,1680.0,5,5,2450.0,2,682776
+1068,Hyundai,Grand I10 Nios,Hyundai Grand I10 Nios,Asta 1.2 Vtvt,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.7,81.86,114,37.0,1520.0,3805.0,1680.0,5,5,2450.0,2,729015
+1069,Hyundai,Grand I10 Nios,Hyundai Grand I10 Nios,Sportz Amt 1.2 Crdi,Hatchback,Diesel,Automatic,FWD (Front Wheel Drive),1186,3,20.7,73.97,190,37.0,1520.0,3805.0,1680.0,5,5,2450.0,2,801414
+1070,Hyundai,Grand I10 Nios,Hyundai Grand I10 Nios,Asta 1.2 Crdi,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1186,3,20.7,73.97,190,37.0,1520.0,3805.0,1680.0,5,5,2450.0,2,815712
+1071,Hyundai,Xcent,Hyundai Xcent,S 1.2,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.14,81.86,114,43.0,1520.0,3995.0,1660.0,4,5,2425.0,2,652781
+1072,Hyundai,Xcent,Hyundai Xcent,S At 1.2,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1197,4,17.36,80.88,114,43.0,1520.0,3995.0,1660.0,4,5,2425.0,2,744006
+1073,Hyundai,Xcent,Hyundai Xcent,Sx 1.2,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1197,4,20.14,80.88,114,43.0,1520.0,3995.0,1660.0,4,5,2425.0,2,715423
+1077,Hyundai,Xcent,Hyundai Xcent,Sx 1.2 Crdi,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1120,3,25.4,73.97,190,43.0,1520.0,3995.0,1660.0,4,5,2425.0,2,809737
+1078,Hyundai,Xcent,Hyundai Xcent,Sx 1.2 Crdi (O),Sedan,Diesel,Manual,FWD (Front Wheel Drive),1120,3,25.4,71.02,190,43.0,1520.0,3995.0,1660.0,4,5,2425.0,2,887613
+1080,Nissan,Micra,Nissan Micra,Xl (O) Cvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1198,3,19.34,75.95,104,41.0,1530.0,3825.0,1665.0,5,5,2450.0,2,672160
+1081,Nissan,Micra,Nissan Micra,Xv Cvt,Hatchback,Petrol,Automatic,FWD (Front Wheel Drive),1198,3,19.34,75.95,104,41.0,1530.0,3825.0,1665.0,5,5,2450.0,2,792629
+1082,Nissan,Micra,Nissan Micra,Xld (O),Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1461,4,23.08,63.12,160,41.0,1525.0,3825.0,1665.0,5,5,2450.0,2,753913
+1083,Nissan,Micra,Nissan Micra,Xvd,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1461,4,23.08,63.12,160,41.0,1525.0,3825.0,1665.0,5,5,2450.0,2,824345
+1084,Mahindra,Bolero,Mahindra Bolero,Zlx,SUV,Diesel,Manual,FWD (Front Wheel Drive),2523,4,15.96,62.14,195,60.0,1880.0,4107.0,1745.0,5,7,2680.0,0,955454
+1085,Mahindra,Bolero,Mahindra Bolero,Slx,SUV,Diesel,Manual,FWD (Front Wheel Drive),2523,4,15.96,62.14,195,60.0,1880.0,4107.0,1745.0,5,7,2680.0,0,929893
+1086,Mahindra,Bolero,Mahindra Bolero,Sle,SUV,Diesel,Manual,FWD (Front Wheel Drive),2523,4,15.96,62.14,195,60.0,1880.0,4107.0,1745.0,5,7,2680.0,0,872770
+1087,Mahindra,Bolero,Mahindra Bolero,Ex,SUV,Diesel,Manual,FWD (Front Wheel Drive),2523,4,15.96,62.14,195,60.0,1910.0,4221.0,1745.0,5,7,2794.0,0,827305
+1088,Mahindra,Bolero,Mahindra Bolero,Ex Non Ac,SUV,Diesel,Manual,FWD (Front Wheel Drive),2523,4,15.96,62.14,195,60.0,1910.0,4221.0,1745.0,5,7,2794.0,0,784509
+1089,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.3L Alpha Smart Hybrid,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,28.09,87.78,200,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,1118126
+1090,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.3L Sigma Smart Hybrid,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,28.09,87.78,200,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,932564
+1091,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.3L Delta Smart Hybrid,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,28.09,87.78,200,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,994418
+1092,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.3L Zeta Smart Hybrid,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1248,4,28.09,87.78,200,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,1077566
+1093,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.5L Sigma Smart Hybrid,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1462,4,21.56,101.59,138,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,831164
+1094,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.5L Delta Smart Hybrid,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1462,4,21.56,101.59,138,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,894032
+1095,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.5L Zeta Smart Hybrid,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1462,4,21.56,101.59,138,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,972110
+1096,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.5L Alpha Smart Hybrid,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1462,4,21.56,101.59,138,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,1011656
+1097,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.5L Delta At Smart Hybrid,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1462,4,20.28,101.59,138,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,994418
+1098,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.5L Zeta At Smart Hybrid,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1462,4,20.28,101.59,138,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,1073509
+1099,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.5L Alpha At Smart Hybrid,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1462,4,20.28,101.59,138,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,1114070
+1100,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.5L Alpha,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,26.82,92.71,225,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,1154123
+1101,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.5L Delta,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,26.32,92.71,225,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,1011656
+1102,Maruti Suzuki,Ciaz,Maruti Suzuki Ciaz,1.5L Zeta,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,26.32,92.71,225,43.0,1485.0,4490.0,1730.0,4,5,2650.0,2,1124717
+1103,Skoda,Rapid,Skoda Rapid,1.6 Mpi Ambition,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1598,4,15.41,103.56,153,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1012579
+1104,Skoda,Rapid,Skoda Rapid,1.5 Tdi Cr Active,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,21.13,108.5,250,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1020224
+1105,Skoda,Rapid,Skoda Rapid,1.6 Mpi Active,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1598,4,15.41,103.56,153,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,894262
+1106,Skoda,Rapid,Skoda Rapid,1.5 Tdi Cr Ambition,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,21.13,108.5,250,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1145413
+1107,Skoda,Rapid,Skoda Rapid,1.5 Tdi Cr Ambition At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1498,4,21.72,108.5,250,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1267093
+1108,Skoda,Rapid,Skoda Rapid,1.6 Mpi Style At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1598,4,14.84,103.56,153,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1261009
+1109,Skoda,Rapid,Skoda Rapid,1.5 Tdi Cr Style At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1498,4,21.72,108.5,250,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1419193
+1110,Skoda,Rapid,Skoda Rapid,1.5 Tdi Cr Style,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,21.13,108.5,250,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1291429
+1111,Skoda,Rapid,Skoda Rapid,1.6 Mpi Style,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1598,4,15.41,103.56,153,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1131217
+1112,Skoda,Rapid,Skoda Rapid,1.6 Mpi Ambition At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1598,4,14.84,103.56,153,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1013593
+1113,Skoda,Rapid,Skoda Rapid,Onyx Mt Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1598,4,15.41,103.56,153,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,989257
+1114,Skoda,Rapid,Skoda Rapid,Onyx At Petrol,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1598,4,14.84,103.56,153,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1114993
+1115,Skoda,Rapid,Skoda Rapid,Onyx Mt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,21.13,108.5,250,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1174819
+1116,Skoda,Rapid,Skoda Rapid,Onyx At Diesel,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1498,4,21.72,108.5,250,55.0,1466.0,4413.0,1699.0,4,5,2552.0,2,1291429
+1118,Hyundai,Creta,Hyundai Creta,1.4 Crdi E Plus,SUV,Diesel,Manual,FWD (Front Wheel Drive),1396,4,21.38,88.77,220,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1013989
+1119,Hyundai,Creta,Hyundai Creta,1.6 Vtvt E Plus,SUV,Petrol,Manual,FWD (Front Wheel Drive),1591,4,15.29,121.32,151,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1013989
+1120,Hyundai,Creta,Hyundai Creta,1.6 Vtvt Sx,SUV,Petrol,Manual,FWD (Front Wheel Drive),1591,4,15.29,121.32,151,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1249789
+1121,Hyundai,Creta,Hyundai Creta,1.6 Vtvt Sx (O),SUV,Petrol,Manual,FWD (Front Wheel Drive),1591,4,15.29,121.32,151,55.0,1630.0,4270.0,1780.0,5,5,2590.0,6,1413959
+1122,Hyundai,Creta,Hyundai Creta,1.6 Vtvt Sx At,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1591,4,15.29,121.32,151,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1396646
+1123,Hyundai,Creta,Hyundai Creta,1.6 Vtvt Sx Dual Tone,SUV,Petrol,Automatic,FWD (Front Wheel Drive),1591,4,15.29,121.32,151,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1305059
+1124,Hyundai,Creta,Hyundai Creta,1.4 Crdi S,SUV,Diesel,Manual,FWD (Front Wheel Drive),1396,4,21.38,88.77,220,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1214689
+1125,Hyundai,Creta,Hyundai Creta,1.6 Crdi Sx,SUV,Diesel,Manual,FWD (Front Wheel Drive),1582,4,19.67,126.25,260,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1385932
+1126,Hyundai,Creta,Hyundai Creta,1.6 Crdi Sx (O),SUV,Diesel,Manual,FWD (Front Wheel Drive),1582,4,19.67,126.25,260,55.0,1630.0,4270.0,1780.0,5,5,2590.0,6,1565173
+1127,Hyundai,Creta,Hyundai Creta,1.6 Crdi Sx At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1582,4,17.01,126.25,260,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1548778
+1128,Hyundai,Creta,Hyundai Creta,1.6 Crdi Sx Dual Tone,SUV,Diesel,Manual,FWD (Front Wheel Drive),1582,4,19.67,126.25,260,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1441104
+1129,Hyundai,Creta,Hyundai Creta,1.6 Crdi S At,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1582,4,17.01,126.25,260,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1354737
+1130,Hyundai,Creta,Hyundai Creta,1.6 Vtvt Sx (O) Executive,SUV,Petrol,Manual,FWD (Front Wheel Drive),1591,4,15.29,119.34,151,55.0,1630.0,4270.0,1780.0,5,5,2590.0,6,1442858
+1131,Hyundai,Creta,Hyundai Creta,1.6 Crdi Sx (O) Executive,SUV,Diesel,Manual,FWD (Front Wheel Drive),1582,4,19.67,124.28,260,55.0,1630.0,4270.0,1780.0,5,5,2590.0,6,1594072
+1132,Hyundai,Creta,Hyundai Creta,1.4 Crdi Ex,SUV,Diesel,Manual,FWD (Front Wheel Drive),1396,4,21.38,88.77,220,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1122667
+1133,Hyundai,Creta,Hyundai Creta,1.6 Vtvt Ex,SUV,Petrol,Manual,FWD (Front Wheel Drive),1591,4,15.29,121.32,151,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1107482
+1134,Hyundai,Creta,Hyundai Creta,Sports Edition Petrol,SUV,Petrol,Manual,FWD (Front Wheel Drive),1591,4,15.29,121.32,151,55.0,1630.0,4270.0,1780.0,5,5,2590.0,2,1297902
+1135,Hyundai,Creta,Hyundai Creta,Sports Edition Diesel,SUV,Diesel,Manual,FWD (Front Wheel Drive),1582,4,19.67,126.25,260,55.0,1665.0,4270.0,1780.0,5,5,2590.0,2,1434046
+1136,Tata,Harrier,Tata Harrier,Revotorq Xe,SUV,Diesel,Manual,FWD (Front Wheel Drive),1956,3,16.7,138.08,350,50.0,1706.0,4598.0,1894.0,5,5,2741.0,2,1364198
+1137,Tata,Harrier,Tata Harrier,Revotorq Xm,SUV,Diesel,Manual,FWD (Front Wheel Drive),1956,3,16.7,138.08,350,50.0,1706.0,4598.0,1894.0,5,5,2741.0,2,1491967
+1138,Tata,Harrier,Tata Harrier,Revotorq Xt,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1956,3,16.7,138.08,350,50.0,1706.0,4598.0,1894.0,5,5,2741.0,2,1613647
+1139,Tata,Harrier,Tata Harrier,Revotorq Xz,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1956,3,16.7,138.08,350,50.0,1706.0,4598.0,1894.0,5,5,2741.0,2,1745467
+1140,Tata,Harrier,Tata Harrier,Revotorq Xz Dual Tone,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1956,3,16.7,138.08,350,50.0,1706.0,4598.0,1894.0,5,5,2741.0,2,1756482
+1141,Tata,Harrier,Tata Harrier,Revotorq Dark Edition,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1956,3,16.7,138.08,350,50.0,1706.0,4598.0,1894.0,5,5,2741.0,2,1754985
+1145,Mitsubishi,Outlander,Mitsubishi Outlander,2.4L Outlander,SUV,Petrol,Automatic,AWD (All Wheel Drive),2360,4,9.62,164.72,222,60.0,1710.0,4695.0,1810.0,5,7,2670.0,7,2730702
+1152,Honda,Accord Hybrid,Honda Accord Hybrid,2.0 At,Sedan,Hybrid,Automatic,FWD (Front Wheel Drive),1993,4,23.1,143.02,175,60.0,1464.0,4933.0,1849.0,4,5,2776.0,6,4381734
+1153,Bmw,5-Series,Bmw 5-Series,520D Luxury Line,Sedan,Diesel,Automatic,RWD (Rear Wheel Drive),1995,4,18.12,187.4,400,70.0,1464.0,4907.0,1860.0,4,5,2968.0,8,6013020
+1154,Bmw,5-Series,Bmw 5-Series,530D M Sport,Sedan,Diesel,Automatic,RWD (Rear Wheel Drive),2993,6,14.69,254.47,560,70.0,1464.0,4907.0,1860.0,4,5,2968.0,8,6773520
+1155,Bmw,5-Series,Bmw 5-Series,530I M Sport,Sedan,Petrol,Automatic,RWD (Rear Wheel Drive),1998,6,15.01,248.55,350,70.0,1464.0,4907.0,1860.0,4,5,2968.0,8,6063720
+1156,Bmw,6-Series,Bmw 6-Series,630D Gt Luxury Line,Sedan,Diesel,Automatic,AWD (All Wheel Drive),2993,6,16.46,261.37,620,88.0,1481.0,5219.0,2142.0,4,4,3210.0,6,6986460
+1157,Bmw,6-Series,Bmw 6-Series,630D Gt M Sport,Sedan,Diesel,Automatic,AWD (All Wheel Drive),2993,6,16.46,261.37,620,88.0,1481.0,5219.0,2142.0,4,4,3210.0,6,7554300
+1159,Bmw,6-Series,Bmw 6-Series,620D Gt Luxury Line,Sedan,Diesel,Automatic,RWD (Rear Wheel Drive),1995,4,21.76,185.43,400,66.0,1538.0,5091.0,1902.0,4,4,3070.0,8,6530160
+1161,Porsche,Macan,Porsche Macan,Base,SUV,Petrol,Automatic,AWD (All Wheel Drive),1984,6,10.8,244.61,370,65.0,1624.0,4696.0,1923.0,5,5,2807.0,8,7095972
+1163,Jaguar,F-Type,Jaguar F-Type,5.0 Coupe R,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),5000,6,14.3,542.48,680,72.0,1308.0,4470.0,2042.0,2,2,2622.0,2,22465565
+1164,Jaguar,F-Type,Jaguar F-Type,Svr Coupe,Coupe,Petrol,Automatic,AWD (All Wheel Drive),5000,8,12.05,559.24,700,70.0,1311.0,4475.0,2042.0,2,2,2622.0,6,26872855
+1165,Jaguar,F-Type,Jaguar F-Type,Svr Convertible,Convertible,Petrol,Automatic,AWD (All Wheel Drive),5000,8,12.05,559.24,700,70.0,1311.0,4475.0,2042.0,2,2,2622.0,6,28397034
+1166,Jaguar,F-Type,Jaguar F-Type,2.0L Coupe,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),1997,6,15.3,292.94,400,63.0,1311.0,4482.0,1923.0,2,2,2622.0,2,9219874
+1168,Jaguar,F-Type,Jaguar F-Type,2.0 Convertible R Dynamic,Convertible,Petrol,Automatic,RWD (Rear Wheel Drive),1997,8,10.7,292.94,400,63.0,1308.0,4482.0,1923.0,2,2,2622.0,2,10565068
+1169,Jaguar,F-Type,Jaguar F-Type,2.0 Coupe R Dynamic,Coupe,Petrol,Automatic,RWD (Rear Wheel Drive),1997,4,10.85,292.94,400,63.0,1311.0,4482.0,1923.0,2,2,2622.0,2,9497563
+1170,Bmw,M5,Bmw M5,Competition,Sedan,Petrol,Automatic,AWD (All Wheel Drive),4395,8,9.8,616.45,750,68.0,1473.0,4956.0,1903.0,4,4,2964.0,9,15706860
+1172,Ferrari,458 Spider,Ferrari 458 Spider,V8,"Coupe, Convertible",Petrol,Automatic,AWD (All Wheel Drive),3902,8,5.5,659.85,760,86.0,1211.0,4568.0,1952.0,2,2,2650.0,2,43974645
+1177,Maruti Suzuki R,Wagon,Maruti Suzuki R Wagon,1.2L Vxi,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,3,21.5,81.86,113,32.0,1675.0,3655.0,1620.0,5,5,2435.0,1,520690
+1182,Maruti Suzuki R,Wagon,Maruti Suzuki R Wagon,1.2L Vxi (O),Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1197,3,21.5,81.86,113,32.0,1675.0,3655.0,1620.0,5,5,2435.0,2,527787
+1187,Tata,Tiago Nrg,Tata Tiago Nrg,1.2L Revotron,Crossover,Petrol,Manual,FWD (Front Wheel Drive),1199,3,23.84,83.84,114,35.0,1587.0,3793.0,1665.0,5,5,2400.0,2,603322
+1188,Tata,Tiago Nrg,Tata Tiago Nrg,1.05L Revotorq,Crossover,Diesel,Manual,FWD (Front Wheel Drive),1047,3,27.28,69.04,140,35.0,1587.0,3793.0,1665.0,5,5,2400.0,2,699652
+1189,Tata,Tiago Nrg,Tata Tiago Nrg,1.2L Revotron Amt,Crossover,Petrol,AMT,FWD (Front Wheel Drive),1199,3,23.84,83.84,114,35.0,1587.0,3793.0,1665.0,5,5,2400.0,2,648952
+1190,Mahindra,Nuvosport,Mahindra Nuvosport,N4,SUV,Diesel,Manual,FWD (Front Wheel Drive),1493,3,17.21,98.63,240,60.0,1870.0,3985.0,1850.0,5,7,2760.0,0,808971
+1191,Mahindra,Nuvosport,Mahindra Nuvosport,N6,SUV,Diesel,Manual,FWD (Front Wheel Drive),1493,3,17.21,98.63,240,60.0,1870.0,3985.0,1850.0,5,7,2760.0,2,918320
+1192,Mahindra,Nuvosport,Mahindra Nuvosport,N8,SUV,Diesel,Manual,FWD (Front Wheel Drive),1493,3,17.21,98.63,240,60.0,1870.0,3985.0,1850.0,5,7,2760.0,2,998605
+1194,Mahindra,Nuvosport,Mahindra Nuvosport,N6 Amt,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1493,3,16.21,98.63,240,60.0,1870.0,3985.0,1850.0,5,7,2760.0,2,985972
+1195,Mahindra,Nuvosport,Mahindra Nuvosport,N8 Amt,SUV,Diesel,Automatic,FWD (Front Wheel Drive),1493,3,16.21,98.63,240,60.0,1870.0,3985.0,1850.0,5,7,2760.0,2,1063283
+1196,Nissan,Kicks,Nissan Kicks,Xl Petrol,SUV,Petrol,Manual,RWD (Rear Wheel Drive),1498,4,14.23,104.55,142,50.0,1651.0,4384.0,1813.0,5,5,2673.0,2,968370
+1197,Nissan,Kicks,Nissan Kicks,Xv Petrol,SUV,Petrol,Manual,RWD (Rear Wheel Drive),1498,4,14.23,104.55,142,50.0,1651.0,4384.0,1813.0,5,5,2673.0,2,1110330
+1198,Nissan,Kicks,Nissan Kicks,Xl Diesel,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1461,4,20.45,108.5,240,50.0,1651.0,4384.0,1813.0,5,5,2673.0,2,1124526
+1199,Nissan,Kicks,Nissan Kicks,Xv Diesel,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1461,4,20.45,108.5,240,50.0,1651.0,4384.0,1813.0,5,5,2673.0,2,1268514
+1200,Nissan,Kicks,Nissan Kicks,Xv Premium,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1461,4,20.45,108.5,240,50.0,1651.0,4384.0,1813.0,5,5,2673.0,2,1388166
+1201,Nissan,Kicks,Nissan Kicks,Xv Premium (O),SUV,Diesel,Manual,RWD (Rear Wheel Drive),1461,4,20.45,108.5,240,50.0,1651.0,4384.0,1813.0,5,5,2673.0,2,1485510
+1202,Nissan,Kicks,Nissan Kicks,Xv Premium (O) Dual Tone,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1461,4,20.45,108.5,240,50.0,1651.0,4384.0,1813.0,5,5,2673.0,7,1485510
+1203,Nissan,Kicks,Nissan Kicks,Xe Diesel,SUV,Diesel,Manual,RWD (Rear Wheel Drive),1461,4,20.45,108.5,240,50.0,1651.0,4384.0,1813.0,5,5,2673.0,2,1002846
+1206,Toyota,Camry,Toyota Camry,Hybrid,Sedan,Hybrid,Automatic,FWD (Front Wheel Drive),2487,4,23.2,175.56,221,50.0,1455.0,4885.0,1840.0,4,5,2825.0,9,3841032
+1208,Land Rover,Discovery,Land Rover Discovery,3.0 Hse Diesel,SUV,Diesel,Automatic,4WD,2993,6,18.0,254.47,600,85.0,1846.0,4988.0,2200.0,5,7,2922.0,8,10348370
+1209,Land Rover,Discovery,Land Rover Discovery,3.0 Se Diesel,SUV,Diesel,Automatic,4WD,2993,6,18.0,254.47,600,85.0,1846.0,4988.0,2200.0,5,7,2922.0,8,9824971
+1210,Land Rover,Discovery,Land Rover Discovery,3.0 Hse Petrol,SUV,Petrol,Automatic,4WD,2995,6,9.17,388.61,450,89.0,1846.0,4988.0,2200.0,5,7,2922.0,8,8551813
+1211,Land Rover,Discovery,Land Rover Discovery,3.0 Se Petrol,SUV,Petrol,Automatic,4WD,2995,6,9.17,388.61,450,89.0,1846.0,4988.0,2200.0,5,7,2922.0,8,8190635
+1212,Land Rover,Discovery,Land Rover Discovery,3.0 S Diesel,SUV,Diesel,Automatic,4WD,2993,6,18.0,254.47,600,85.0,1846.0,4988.0,2200.0,5,7,2922.0,8,9001373
+1213,Land Rover,Discovery,Land Rover Discovery,3.0 S Petrol,SUV,Petrol,Automatic,4WD,2995,6,9.17,388.61,450,89.0,1846.0,4988.0,2200.0,5,7,2922.0,8,7801375
+1214,Land Rover,Discovery,Land Rover Discovery,3.0 Hse Luxury Diesel,SUV,Diesel,Automatic,4WD,2993,6,18.0,254.47,600,85.0,1846.0,4988.0,2200.0,5,7,2922.0,8,11013143
+1215,Land Rover,Discovery,Land Rover Discovery,3.0 Hse Luxury Petrol,SUV,Petrol,Automatic,4WD,2995,6,9.17,388.61,450,89.0,1846.0,4988.0,2200.0,5,7,2922.0,8,9062975
+1216,Lexus,Ls 500H,Lexus Ls 500H,Luxury,SUV,Hybrid,Automatic,AWD (All Wheel Drive),3456,6,15.4,294.91,350,82.0,1450.0,5235.0,1900.0,4,5,3125.0,14,18476094
+1217,Lexus,Ls 500H,Lexus Ls 500H,Ultra Luxury,SUV,Hybrid,Automatic,AWD (All Wheel Drive),3456,6,15.4,294.91,350,82.0,1450.0,5235.0,1900.0,4,5,3125.0,14,18998304
+1218,Lexus,Ls 500H,Lexus Ls 500H,Distinct,SUV,Hybrid,Automatic,AWD (All Wheel Drive),3456,6,15.4,294.91,350,82.0,1450.0,5235.0,1900.0,4,5,3125.0,14,19642194
+1221,Fiat,Punto Evo,Fiat Punto Evo,Dynamic 1.2,Hatchback,Petrol,Manual,FWD (Front Wheel Drive),1172,4,15.7,67.07,96,45.0,1525.0,3989.0,1687.0,5,5,2510.0,0,543059
+1222,Fiat,Punto Evo,Fiat Punto Evo,Active Multijet 1.3,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1172,4,20.5,74.96,197,45.0,1525.0,3989.0,1687.0,5,5,2510.0,1,640130
+1223,Fiat,Punto Evo,Fiat Punto Evo,Dynamic Multijet 1.3,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,20.3,74.96,197,45.0,1525.0,3989.0,1687.0,5,5,2510.0,0,702352
+1224,Fiat,Punto Evo,Fiat Punto Evo,Emotion Multijet 1.3,Hatchback,Diesel,Manual,FWD (Front Wheel Drive),1248,4,21.2,74.96,197,45.0,1525.0,3989.0,1687.0,5,5,2510.0,2,758242
+1225,Toyota,Yaris,Toyota Yaris,J,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1496,4,17.1,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,7,953160
+1226,Toyota,Yaris,Toyota Yaris,G,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1496,4,17.1,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,7,1069770
+1227,Toyota,Yaris,Toyota Yaris,V,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1498,4,17.1,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,7,1190436
+1228,Toyota,Yaris,Toyota Yaris,Vx Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1496,4,17.8,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,7,1437852
+1229,Toyota,Yaris,Toyota Yaris,G Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1496,4,17.8,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,7,1191450
+1230,Toyota,Yaris,Toyota Yaris,J Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1496,4,17.8,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,7,1024140
+1231,Toyota,Yaris,Toyota Yaris,V Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1496,4,17.8,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,7,1312116
+1232,Toyota,Yaris,Toyota Yaris,Vx,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1496,4,17.1,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,7,1314144
+1233,Toyota,Yaris,Toyota Yaris,V (O),Sedan,Petrol,Manual,FWD (Front Wheel Drive),1498,4,17.1,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,7,1213758
+1234,Toyota,Yaris,Toyota Yaris,J (O),Sedan,Petrol,Manual,FWD (Front Wheel Drive),1496,4,17.1,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,3,888264
+1235,Toyota,Yaris,Toyota Yaris,G (O),Sedan,Petrol,Manual,FWD (Front Wheel Drive),1496,4,17.1,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,3,987636
+1236,Toyota,Yaris,Toyota Yaris,J (O) Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1496,4,17.1,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,3,948090
+1237,Toyota,Yaris,Toyota Yaris,G (O) Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1496,4,17.1,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,3,1098162
+1238,Toyota,Yaris,Toyota Yaris,V (O) Cvt,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1498,4,17.1,105.54,140,42.0,1495.0,4425.0,1730.0,4,5,2550.0,7,1335438
+1239,Skoda,Octavia,Skoda Octavia,Ambition 1.4 Tsi,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1395,4,16.7,138.08,250,50.0,1476.0,4670.0,1814.0,4,5,2688.0,4,1621993
+1240,Skoda,Octavia,Skoda Octavia,Ambition 2.0 Tdi Cr,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1968,4,21.0,141.04,320,50.0,1476.0,4670.0,1814.0,4,5,2688.0,4,1824793
+1241,Skoda,Octavia,Skoda Octavia,Style 1.4 Tsi,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1395,4,16.7,138.08,250,50.0,1476.0,4670.0,1814.0,4,5,2688.0,6,1926193
+1242,Skoda,Octavia,Skoda Octavia,Style 1.8 Tsi At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1798,4,15.1,177.54,250,50.0,1476.0,4670.0,1814.0,4,5,2688.0,6,2088433
+1243,Skoda,Octavia,Skoda Octavia,Style 2.0 Tdi Cr,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1968,4,21.0,141.04,320,50.0,1476.0,4670.0,1814.0,4,5,2688.0,6,2108713
+1244,Skoda,Octavia,Skoda Octavia,Style 2.0 Tdi Cr At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,19.5,141.04,320,50.0,1476.0,4670.0,1814.0,4,5,2688.0,6,2331793
+1245,Skoda,Octavia,Skoda Octavia,L & K 1.8 Tsi At,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1798,4,15.1,177.54,250,50.0,1476.0,4670.0,1814.0,4,5,2688.0,6,2392633
+1246,Skoda,Octavia,Skoda Octavia,L & K 2.0 Tdi Cr At,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,19.5,141.04,320,50.0,1476.0,4670.0,1814.0,4,5,2688.0,6,2392633
+1247,Skoda,Octavia,Skoda Octavia,Corporate Edition 1.4 Tsi,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1395,4,16.7,138.08,250,50.0,1476.0,4670.0,1814.0,4,5,2688.0,6,1570686
+1248,Skoda,Octavia,Skoda Octavia,Corporate Edition 2.0 Tdi,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1968,4,21.0,139.07,320,50.0,1476.0,4670.0,1814.0,4,5,2688.0,6,1722786
+1249,Skoda,Octavia,Skoda Octavia,Onyx 1.8 Tsi Dsg,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1798,4,15.1,177.54,250,50.0,1476.0,4670.0,1814.0,4,5,2688.0,6,2027593
+1250,Skoda,Octavia,Skoda Octavia,Onyx 2.0 Tdi Dsg,Sedan,Diesel,Automatic,FWD (Front Wheel Drive),1968,4,19.5,141.04,320,50.0,1476.0,4670.0,1814.0,4,5,2688.0,6,2230393
+1255,Mahindra,Verito,Mahindra Verito,1.5 D2,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1461,4,21.0,64.11,160,50.0,1540.0,4277.0,1740.0,4,5,2630.0,0,758847
+1256,Mahindra,Verito,Mahindra Verito,1.5 D4 Bs-Iv,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1461,4,21.0,64.11,160,50.0,1540.0,4277.0,1740.0,4,5,2630.0,0,783433
+1257,Mahindra,Verito,Mahindra Verito,1.5 D6 Bs-Iv,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1461,4,21.0,118.36,280,50.0,1540.0,4277.0,1740.0,4,5,2630.0,0,856986
+1258,Mitsubishi,Pajero Sport,Mitsubishi Pajero Sport,2.5 Mt,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2477,4,10.77,175.56,400,70.0,1840.0,4695.0,1815.0,5,7,2800.0,2,2944402
+1259,Mitsubishi,Pajero Sport,Mitsubishi Pajero Sport,2.5 At,SUV,Diesel,Automatic,RWD (Rear Wheel Drive),2477,4,10.77,175.56,350,70.0,1840.0,4695.0,1815.0,5,7,2800.0,2,2875197
+1260,Mitsubishi,Pajero Sport,Mitsubishi Pajero Sport,Limited Edition,SUV,Diesel,Manual,4WD,2477,4,10.77,175.56,400,70.0,1840.0,4695.0,1815.0,5,7,2800.0,2,2994585
+1261,Mitsubishi,Pajero Sport,Mitsubishi Pajero Sport,Select Plus Mt,SUV,Diesel,Manual,RWD (Rear Wheel Drive),2477,4,10.77,175.56,400,70.0,1840.0,4695.0,1815.0,5,7,2800.0,2,3034699
+1262,Mitsubishi,Pajero Sport,Mitsubishi Pajero Sport,Select Plus At,SUV,Diesel,Automatic,RWD (Rear Wheel Drive),2477,4,10.77,175.56,350,70.0,1840.0,4695.0,1815.0,5,7,2800.0,2,2993835
+1263,Bentley,Flying Spur,Bentley Flying Spur,V8,Sedan,Petrol,Automatic,AWD (All Wheel Drive),3993,8,4.0,500.06,660,90.0,1488.0,5299.0,2207.0,4,4,3066.0,6,34645402
+1264,Bentley,Flying Spur,Bentley Flying Spur,W12,Sedan,Petrol,Automatic,AWD (All Wheel Drive),5998,12,4.0,607.57,800,90.0,1488.0,5299.0,2207.0,4,4,3066.0,6,39933432
+1265,Honda,City,Honda City,Sv Mt Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1497,4,17.4,117.37,145,40.0,1495.0,4440.0,1695.0,4,5,2600.0,2,1004874
+1266,Honda,City,Honda City,V Mt Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1497,4,17.8,117.37,145,40.0,1495.0,4440.0,1695.0,4,5,2600.0,2,1080822
+1267,Honda,City,Honda City,Vx Mt Petrol,Sedan,Petrol,Manual,FWD (Front Wheel Drive),1497,4,17.4,117.37,145,40.0,1495.0,4440.0,1695.0,4,5,2600.0,2,1198548
+1268,Honda,City,Honda City,Vx Cvt Petrol,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1497,4,18.0,117.37,145,40.0,1495.0,4440.0,1695.0,4,5,2600.0,2,1330368
+1269,Honda,City,Honda City,Sv Mt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,25.6,98.63,200,40.0,1495.0,4440.0,1695.0,4,5,2600.0,2,1126554
+1270,Honda,City,Honda City,V Mt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,25.6,98.63,200,40.0,1495.0,4440.0,1695.0,4,5,2600.0,2,1207674
+1271,Honda,City,Honda City,Vx Mt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,25.1,98.63,200,40.0,1495.0,4440.0,1695.0,4,5,2600.0,2,1320228
+1272,Honda,City,Honda City,Zx Mt Diesel,Sedan,Diesel,Manual,FWD (Front Wheel Drive),1498,4,25.1,98.63,200,40.0,1495.0,4440.0,1695.0,4,5,2600.0,6,1440894
+1273,Honda,City,Honda City,Zx Cvt Petrol,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1497,4,22.6,117.37,145,40.0,1495.0,4440.0,1695.0,4,5,2600.0,6,1451034
+1274,Honda,City,Honda City,V Cvt Petrol,Sedan,Petrol,Automatic,FWD (Front Wheel Drive),1497,4,17.8,117.37,145,40.0,1495.0,4440.0,1695.0,4,5,2600.0,2,1217814
+1275,Mitsubishi,Montero,Mitsubishi Montero,3.2 At,SUV,Diesel,Automatic,AWD (All Wheel Drive),3200,4,11.56,199.24,441,88.0,1900.0,4900.0,1875.0,5,7,2780.0,6,6958635
